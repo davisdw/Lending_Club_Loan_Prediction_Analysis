@@ -1,0 +1,682 @@
+10000.0,7.88,Mass. General Hospital,2 years,RENT,70000.0,Fully Paid,major_purchase,MA,5.42,740.0,744.0
+8000.0,7.51,walmart,10+ years,OWN,25000.0,Fully Paid,credit_card,FL,10.99,760.0,764.0
+3000.0,10.99,Open Technologies  Inc,< 1 year,RENT,18864.0,Fully Paid,major_purchase,FL,3.82,690.0,694.0
+3200.0,13.11,National City,6 years,RENT,25000.0,Charged Off,other,MO,17.86,690.0,694.0
+10400.0,10.25,Noonan & Lieberman,5 years,OWN,45000.0,Charged Off,debt_consolidation,IL,14.83,720.0,724.0
+3000.0,6.39,CACI,4 years,OWN,113500.0,Fully Paid,home_improvement,MD,1.06,790.0,794.0
+12000.0,10.25,LoJack Corporation,10+ years,MORTGAGE,105000.0,Fully Paid,credit_card,CA,15.92,720.0,724.0
+10000.0,7.51,USAF,5 years,OWN,43000.0,Fully Paid,debt_consolidation,FL,1.87,760.0,764.0
+10000.0,7.51,Lending Club,< 1 year,MORTGAGE,125000.0,Fully Paid,major_purchase,CA,0.29,805.0,809.0
+1000.0,6.76,North Florida Community College,6 years,OWN,42900.0,Fully Paid,home_improvement,FL,2.41,795.0,799.0
+5500.0,17.93,Grand Casino,4 years,RENT,19136.0,Fully Paid,other,MN,17.87,695.0,699.0
+7400.0,7.88,The Dow Chemical Co.,4 years,MORTGAGE,94800.0,Fully Paid,small_business,TX,10.22,755.0,759.0
+2500.0,10.62,,,RENT,26400.0,Fully Paid,other,MI,21.64,710.0,714.0
+5500.0,11.36,"Donnell R Fullerton, PC",6 years,MORTGAGE,85000.0,Fully Paid,debt_consolidation,VA,22.18,685.0,689.0
+5600.0,7.14,"University of Texas at Austin, HRC",8 years,RENT,30000.0,Fully Paid,credit_card,TX,12.32,755.0,759.0
+10000.0,11.36,Town  and  Country Liq,8 years,MORTGAGE,60000.0,Fully Paid,major_purchase,NJ,8.06,730.0,734.0
+12000.0,7.88,UNITED STATE POSTAL SERVICES,5 years,RENT,50000.0,Fully Paid,debt_consolidation,CA,13.1,750.0,754.0
+6000.0,16.07,sport chalet,4 years,RENT,42000.0,Fully Paid,educational,CA,24.57,665.0,669.0
+10000.0,7.88,Riverside County Sheriff,9 years,MORTGAGE,90000.0,Fully Paid,debt_consolidation,CA,15.12,740.0,744.0
+10800.0,10.99,Landmark College,3 years,MORTGAGE,43495.0,Fully Paid,credit_card,VT,10.68,710.0,714.0
+8000.0,7.51,GRANT TANI BARASH & ALTMAN,2 years,RENT,56000.0,Fully Paid,debt_consolidation,CA,19.29,770.0,774.0
+10000.0,9.88,Deloitte Consulting,2 years,RENT,65000.0,Fully Paid,debt_consolidation,VA,8.79,725.0,729.0
+10000.0,10.99,Keany Produce Company,10+ years,RENT,38000.0,Fully Paid,debt_consolidation,MD,19.48,705.0,709.0
+14400.0,7.88,Medvance,2 years,RENT,43000.0,Fully Paid,credit_card,FL,19.69,760.0,764.0
+7000.0,7.88,AIDS Healthcare Foundation,< 1 year,MORTGAGE,70000.0,Fully Paid,debt_consolidation,FL,6.69,750.0,754.0
+6000.0,10.62,Ford Metal Roofing,2 years,RENT,32000.0,Charged Off,debt_consolidation,FL,13.99,705.0,709.0
+10000.0,12.73,winco holdings,7 years,MORTGAGE,55000.0,Fully Paid,small_business,CA,8.81,695.0,699.0
+16000.0,16.45,United Healthcare,10+ years,RENT,51000.0,Fully Paid,debt_consolidation,MD,17.48,660.0,664.0
+3800.0,13.11,Us foodservice,3 years,MORTGAGE,68500.0,Charged Off,home_improvement,MN,23.25,690.0,694.0
+5525.0,13.85,Fresno Co District Attorney,10+ years,MORTGAGE,79440.0,Fully Paid,credit_card,CA,21.03,720.0,724.0
+7000.0,7.14,Stifel Nicolaus,1 year,RENT,80000.0,Fully Paid,credit_card,MO,18.61,750.0,754.0
+9800.0,15.7,Seahorse Discount Inc,10+ years,MORTGAGE,54442.0,Fully Paid,debt_consolidation,NJ,11.84,665.0,669.0
+7675.0,15.33,"Main Point Systems, Inc.",6 years,RENT,65000.0,Fully Paid,debt_consolidation,CA,14.03,660.0,664.0
+10000.0,7.51,Market Staff,1 year,RENT,100000.0,Fully Paid,other,IL,5.59,760.0,764.0
+6850.0,7.14,CA  Inc,1 year,RENT,60000.0,Fully Paid,other,TX,13.94,795.0,799.0
+14000.0,15.33,General Dynamics,4 years,MORTGAGE,64300.0,Fully Paid,debt_consolidation,MN,23.55,665.0,669.0
+6000.0,14.96,Changing World Technologies Inc.,2 years,OWN,60000.0,Fully Paid,debt_consolidation,NY,1.7,675.0,679.0
+20000.0,10.62,Procter  and  Gamble,10+ years,MORTGAGE,91000.0,Fully Paid,debt_consolidation,MO,12.63,735.0,739.0
+6250.0,7.88,,< 1 year,MORTGAGE,50000.0,Fully Paid,other,NJ,0.26,770.0,774.0
+8000.0,11.36,Bushman Products,2 years,RENT,76000.0,Fully Paid,credit_card,CA,8.95,695.0,699.0
+2500.0,14.59,Red Lobster-Darden Restaurants,< 1 year,RENT,10000.0,Charged Off,other,FL,13.44,675.0,679.0
+4750.0,7.14,,,OWN,12000.0,Fully Paid,debt_consolidation,WA,18.1,760.0,764.0
+8500.0,9.88,IBM,2 years,RENT,76000.0,Fully Paid,debt_consolidation,FL,21.19,765.0,769.0
+1200.0,13.48,UCLA Parking Services`,< 1 year,RENT,7500.0,Fully Paid,other,CA,21.44,700.0,704.0
+5000.0,7.51,United States Postal Service,2 years,RENT,47000.0,Fully Paid,other,MA,12.77,745.0,749.0
+17000.0,9.88,Archbishop Molloy High School,6 years,RENT,54660.0,Fully Paid,debt_consolidation,NY,19.39,760.0,764.0
+6000.0,10.25,Macys,3 years,RENT,50000.0,Fully Paid,other,NY,20.66,705.0,709.0
+5000.0,9.88,Western EcoSystem Technology  Inc,2 years,RENT,50700.0,Fully Paid,major_purchase,WY,22.91,715.0,719.0
+14400.0,7.88,AAA,5 years,MORTGAGE,96216.0,Fully Paid,home_improvement,CA,1.91,775.0,779.0
+8000.0,15.33,U.S. House of Representatives,4 years,RENT,36000.0,Fully Paid,wedding,CA,8.47,660.0,664.0
+8000.0,7.14,Guidemark Inc.,5 years,RENT,50000.0,Fully Paid,major_purchase,PA,22.13,770.0,774.0
+11200.0,13.48,Evangelical Bethlehem Lutheran School,< 1 year,RENT,46739.4,Fully Paid,debt_consolidation,CA,3.93,690.0,694.0
+10550.0,7.88,MetLife,10+ years,RENT,35000.0,Fully Paid,debt_consolidation,PA,21.63,740.0,744.0
+12000.0,10.99,South Coast Systems,2 years,RENT,78500.0,Fully Paid,credit_card,CA,14.14,730.0,734.0
+4000.0,10.62,,,RENT,12000.0,Fully Paid,other,MN,14.1,700.0,704.0
+8000.0,13.11,SOS Salson,1 year,RENT,35000.0,Charged Off,small_business,TX,1.65,740.0,744.0
+10000.0,13.48,SRA,1 year,RENT,30000.0,Fully Paid,other,TX,17.04,680.0,684.0
+10000.0,10.62,Wellpoint,2 years,MORTGAGE,67145.0,Fully Paid,debt_consolidation,NY,6.13,720.0,724.0
+4000.0,7.51,Pappardelle's Pizzeria,2 years,OWN,26400.0,Fully Paid,other,NY,16.5,735.0,739.0
+14000.0,10.25,Healix,10+ years,MORTGAGE,70000.0,Fully Paid,debt_consolidation,TX,16.42,730.0,734.0
+4800.0,6.76,,,RENT,14076.0,Fully Paid,debt_consolidation,WA,6.05,770.0,774.0
+4400.0,11.36,Mount Sinai Medical Center,2 years,MORTGAGE,65000.0,Fully Paid,debt_consolidation,NY,18.22,685.0,689.0
+5500.0,7.51,City of Billings,2 years,OWN,34656.0,Fully Paid,other,MT,20.39,740.0,744.0
+6400.0,13.11,SRA International,2 years,RENT,71500.0,Fully Paid,credit_card,VA,16.38,680.0,684.0
+10000.0,7.51,Christiana Care Health Services,4 years,MORTGAGE,60000.0,Fully Paid,home_improvement,DE,15.92,765.0,769.0
+15000.0,11.36,Peabody Management services,7 years,MORTGAGE,96339.0,Fully Paid,debt_consolidation,IL,22.16,705.0,709.0
+13000.0,13.48,Cascade Management Inc.,1 year,RENT,40000.0,Fully Paid,credit_card,OR,24.66,685.0,689.0
+3250.0,14.59,Cascade Management Inc.,2 years,RENT,28000.0,Fully Paid,credit_card,OR,24.6,660.0,664.0
+6400.0,13.85,Marion County Fire Rescue,3 years,MORTGAGE,44000.0,Fully Paid,credit_card,FL,20.54,670.0,674.0
+9250.0,14.22,99 Restaurant,< 1 year,RENT,19200.0,Charged Off,debt_consolidation,VT,10.81,695.0,699.0
+3000.0,14.22,Reznick Group,1 year,RENT,40000.0,Fully Paid,other,DC,10.05,700.0,704.0
+5200.0,10.25,"R.W. Harden & Associates, Inc.",2 years,MORTGAGE,42000.0,Fully Paid,debt_consolidation,TX,21.63,710.0,714.0
+13750.0,9.88,Boeing,5 years,MORTGAGE,66200.0,Fully Paid,debt_consolidation,TX,17.67,735.0,739.0
+5000.0,10.25,precision machine,< 1 year,RENT,50000.0,Fully Paid,home_improvement,GA,19.23,710.0,714.0
+5050.0,12.73,"Levine Plotkin & Menin, LLP",4 years,RENT,50000.0,Fully Paid,credit_card,NY,20.52,680.0,684.0
+1500.0,10.99,"Clarks Nutritional Centers, Inc",10+ years,MORTGAGE,87000.0,Fully Paid,medical,CA,20.43,685.0,689.0
+3000.0,10.99,BAE Systems,2 years,MORTGAGE,54900.0,Fully Paid,home_improvement,PA,15.5,695.0,699.0
+13050.0,14.59,Energy Transfer Partners,5 years,MORTGAGE,140000.0,Fully Paid,debt_consolidation,TX,11.07,675.0,679.0
+11200.0,7.88,west herr automotive group,10+ years,MORTGAGE,62000.0,Fully Paid,debt_consolidation,NY,22.49,735.0,739.0
+10000.0,9.88,Ruckus Wireless,3 years,MORTGAGE,98784.0,Fully Paid,other,CA,14.32,720.0,724.0
+5500.0,7.14,Terracon,< 1 year,MORTGAGE,47000.0,Fully Paid,credit_card,MO,19.86,750.0,754.0
+13750.0,13.11,River Oaks Hospital,4 years,OWN,26000.0,Fully Paid,major_purchase,LA,14.4,745.0,749.0
+14000.0,13.48,COMMUNISPACE CORP,2 years,RENT,41400.0,Fully Paid,movies,debt_consolidation,Active and speedy,20.06,0.0
+12500.0,10.25,CBS Television Stations,4 years,RENT,36500.0,Fully Paid,credit_card,CA,18.38,730.0,734.0
+6900.0,9.88,University of New Hampshire,10+ years,RENT,47480.0,Fully Paid,other,NH,16.81,725.0,729.0
+3300.0,6.39,united bank,5 years,OWN,15600.0,Fully Paid,debt_consolidation,MA,21.46,775.0,779.0
+15000.0,10.99,Ferrell Gas,4 years,RENT,72000.0,Fully Paid,debt_consolidation,MO,10.75,720.0,724.0
+7200.0,11.36,"Toro-Aire, Inc.",6 years,RENT,48000.0,Fully Paid,debt_consolidation,CA,7.15,725.0,729.0
+4750.0,10.25,LAUSD,10+ years,MORTGAGE,79200.0,Fully Paid,debt_consolidation,CA,20.42,710.0,714.0
+16000.0,13.85,IBM Austin,10+ years,MORTGAGE,115000.0,Fully Paid,debt_consolidation,TX,14.01,685.0,689.0
+12500.0,14.22,Whole Foods Market,2 years,RENT,35000.0,Fully Paid,other,NY,12.75,710.0,714.0
+10000.0,9.88,Broward County,1 year,RENT,70000.0,Fully Paid,debt_consolidation,FL,6.24,725.0,729.0
+10000.0,7.51,PA Mentor,4 years,RENT,30000.0,Fully Paid,other,PA,5.4,750.0,754.0
+6000.0,14.22,FXFOWLE,4 years,RENT,52000.0,Fully Paid,debt_consolidation,NY,15.65,675.0,679.0
+10000.0,7.51,"Intent Media, Inc.",< 1 year,MORTGAGE,95000.0,Fully Paid,debt_consolidation,NY,2.93,755.0,759.0
+7800.0,11.36,JMK Builders Inc.,7 years,MORTGAGE,52000.0,Fully Paid,debt_consolidation,NJ,7.89,690.0,694.0
+11000.0,7.88,Sacramento Police Department,8 years,MORTGAGE,58570.72,Fully Paid,credit_card,CA,10.14,740.0,744.0
+8000.0,10.62,Brown and Caldwell,2 years,RENT,32000.0,Fully Paid,other,CA,11.29,720.0,724.0
+8500.0,14.22,Lyle Engineering Group Inc,7 years,RENT,55000.0,Fully Paid,debt_consolidation,FL,20.75,670.0,674.0
+4200.0,7.14,Arkal Taylor,7 years,MORTGAGE,63000.0,Fully Paid,major_purchase,AR,8.57,750.0,754.0
+4625.0,10.62,Northeast Georgia Health Systlems,2 years,MORTGAGE,70000.0,Fully Paid,credit_card,GA,19.94,705.0,709.0
+10000.0,10.25,Sanofi Aventis,4 years,OWN,93000.0,Fully Paid,debt_consolidation,CT,2.71,715.0,719.0
+15000.0,12.73,Schmid Broaddus Nugent Gano,3 years,RENT,41000.0,Fully Paid,other,TX,11.41,740.0,744.0
+10000.0,13.11,Apex Systems  Inc.,< 1 year,RENT,45000.0,Fully Paid,other,VA,22.91,690.0,694.0
+15000.0,16.07,Music Warehouse,1 year,RENT,45000.0,Fully Paid,credit_card,MD,9.33,670.0,674.0
+10000.0,11.36,Abel-Womack,10+ years,RENT,56253.0,Fully Paid,debt_consolidation,CT,9.73,725.0,729.0
+12000.0,10.99,IGT - International Game Technology,8 years,RENT,54050.0,Fully Paid,debt_consolidation,NV,23.51,705.0,709.0
+6400.0,14.96,Rogers corporation,2 years,RENT,72000.0,Fully Paid,wedding,IL,15.45,660.0,664.0
+12000.0,16.45,Crystal Creek Aggregate  Inc.,2 years,MORTGAGE,39099.0,Fully Paid,debt_consolidation,CA,3.1,665.0,669.0
+10750.0,7.51,Pattie A. Clay Hospital,10+ years,MORTGAGE,39000.0,Fully Paid,small_business,KY,12.86,760.0,764.0
+16000.0,12.73,Prestige Wealth Management Group,1 year,MORTGAGE,74000.0,Fully Paid,debt_consolidation,CO,4.41,710.0,714.0
+15000.0,13.11,NY Presbyterian Hospital,6 years,RENT,76000.0,Fully Paid,wedding,NY,11.92,695.0,699.0
+15000.0,13.11,CGI Inc,10+ years,OWN,120000.0,Fully Paid,other,SC,16.69,690.0,694.0
+6000.0,7.88,PEPSI,10+ years,MORTGAGE,51000.0,Fully Paid,other,CA,13.36,735.0,739.0
+1250.0,10.99,Island Company,< 1 year,OWN,28000.0,Fully Paid,moving,FL,0.64,740.0,744.0
+2250.0,10.62,Loranger International,7 years,OWN,53000.0,Fully Paid,educational,CA,13.86,720.0,724.0
+5000.0,10.99,Post Office,10+ years,MORTGAGE,52000.0,Fully Paid,medical,AZ,6.55,690.0,694.0
+10000.0,7.51,Saint Joseph School,8 years,RENT,30000.0,Fully Paid,other,NJ,8.6,750.0,754.0
+7500.0,10.25,US military army,2 years,RENT,50400.0,Fully Paid,debt_consolidation,MD,14.83,715.0,719.0
+7500.0,13.11,Johnson Premium Hardwood Flooring,3 years,MORTGAGE,57200.0,Fully Paid,bushes,home_improvement,backyard garden oasis,10.85,0.0
+2500.0,6.39,WALMART,10+ years,OWN,33600.0,Fully Paid,medical,SC,3.39,780.0,784.0
+15000.0,10.99,UPS,10+ years,OWN,75000.0,Fully Paid,home_improvement,GA,1.36,720.0,724.0
+8500.0,7.88,Cross Country Staffing,2 years,RENT,47500.0,Fully Paid,debt_consolidation,FL,11.7,735.0,739.0
+15000.0,9.88,town of new canaan,6 years,MORTGAGE,91000.0,Fully Paid,debt_consolidation,CT,15.93,760.0,764.0
+16000.0,16.45,DaVita Dialysis,3 years,MORTGAGE,78000.0,Fully Paid,debt_consolidation,CA,14.74,665.0,669.0
+14000.0,10.62,Buffalo Ambulatory Surgery Center,3 years,RENT,44049.6,Fully Paid,debt_consolidation,NY,22.39,720.0,724.0
+8000.0,15.7,Watterson Electric,4 years,OWN,30000.0,Fully Paid,other,SC,9.0,670.0,674.0
+10000.0,9.88,Texarkana Police Dept,10+ years,MORTGAGE,60000.0,Fully Paid,debt_consolidation,TX,9.8,755.0,759.0
+4200.0,14.22,Wyo-Ben Inc.,10+ years,RENT,53000.0,Fully Paid,other,WY,16.69,665.0,669.0
+5000.0,9.88,Campbell Appraisals,6 years,RENT,38400.0,Fully Paid,other,CA,24.5,715.0,719.0
+1600.0,7.88,Prosol.Inc,3 years,MORTGAGE,45600.0,Fully Paid,small_business,CA,7.74,715.0,719.0
+14000.0,17.56,St. Paul High School,5 years,RENT,103560.0,Fully Paid,debt_consolidation,CA,15.02,670.0,674.0
+10000.0,10.25,RWJUH Rahway,4 years,RENT,65000.0,Fully Paid,wedding,NJ,9.3,740.0,744.0
+5000.0,12.73,Iron Mountain,< 1 year,MORTGAGE,61000.0,Charged Off,other,WA,15.76,680.0,684.0
+10000.0,11.36,JCG,2 years,MORTGAGE,130000.0,Fully Paid,debt_consolidation,CO,20.19,700.0,704.0
+5600.0,10.62,LP Speedy Spa,10+ years,OWN,75000.0,Fully Paid,educational,NY,14.32,705.0,709.0
+20000.0,10.62,Sara Lee,10+ years,MORTGAGE,130000.0,Fully Paid,home_improvement,AR,15.98,785.0,789.0
+5000.0,13.48,,4 years,MORTGAGE,45000.0,Fully Paid,small_business,MN,14.19,675.0,679.0
+10000.0,13.48,Atlantis Homes,10+ years,RENT,41300.0,Fully Paid,debt_consolidation,VA,13.8,685.0,689.0
+14000.0,7.51,church of Christ,9 years,MORTGAGE,75600.0,Fully Paid,other,CA,3.68,770.0,774.0
+5200.0,17.19,NourishLife,2 years,RENT,30000.0,Fully Paid,car,IL,22.29,660.0,664.0
+25000.0,18.3,"Radiation Oncology Physicians, LLC",2 years,MORTGAGE,340000.0,Fully Paid,small_business,OH,11.99,750.0,754.0
+14000.0,13.11,Industrial Combustion,9 years,RENT,40000.0,Fully Paid,credit_card,WI,11.31,695.0,699.0
+12000.0,11.36,"Law Offices of Marshall C. Watson, P.A.",3 years,MORTGAGE,48000.0,Fully Paid,debt_consolidation,FL,13.18,700.0,704.0
+24250.0,10.62,The Johns Hopkins University Applied Physics Laboratory,3 years,MORTGAGE,113200.0,Fully Paid,other,MD,0.28,795.0,799.0
+8000.0,10.25,Mercer Transport & Bluewater Fitness,< 1 year,RENT,40000.0,Fully Paid,debt_consolidation,FL,20.04,715.0,719.0
+8000.0,11.36,Asylum Visual Effects,3 years,MORTGAGE,160669.75,Fully Paid,other,CA,5.27,705.0,709.0
+16000.0,11.36,the broadmoor,1 year,RENT,45000.0,Charged Off,credit_card,CO,8.83,725.0,729.0
+1600.0,13.11,WA State Attorney General's Office,10+ years,MORTGAGE,41508.0,Fully Paid,debt_consolidation,WA,18.99,670.0,674.0
+7500.0,11.36,CDM,3 years,RENT,62000.0,Fully Paid,debt_consolidation,TX,14.83,705.0,709.0
+3000.0,10.25,SenDx Medical Inc,1 year,RENT,60000.0,Fully Paid,credit_card,CA,15.64,700.0,704.0
+14000.0,13.48,City Publication (aka Pride of the City),4 years,MORTGAGE,45000.0,Fully Paid,debt_consolidation,GA,9.17,690.0,694.0
+5000.0,7.51,,5 years,RENT,62400.0,Fully Paid,credit_card,CA,12.75,735.0,739.0
+4000.0,14.22,Sarasota memorial hospital,2 years,MORTGAGE,250000.0,Fully Paid,major_purchase,FL,14.91,675.0,679.0
+14400.0,10.62,Viacom,4 years,RENT,60000.0,Fully Paid,small_business,NY,6.26,725.0,729.0
+3000.0,10.62,WalMart,10+ years,OWN,35000.0,Charged Off,other,VA,8.91,690.0,694.0
+4000.0,7.14,trailzend,10+ years,MORTGAGE,40000.0,Fully Paid,major_purchase,PA,18.33,795.0,799.0
+6250.0,12.73,,8 years,RENT,23000.0,Fully Paid,debt_consolidation,CA,21.23,685.0,689.0
+13000.0,7.88,ICON Clinical Research,3 years,MORTGAGE,70400.0,Fully Paid,and I would like to keep the finance charges to a minimum.  I have never made a late payment on any account I have ever had.  I expect to pay off the loan within a year,Debt Consolodation from Home Remodel,605xx,0.0,Nov-1998
+4000.0,12.73,MMD Components,7 years,MORTGAGE,55680.0,Fully Paid,debt_consolidation,CA,14.78,675.0,679.0
+4800.0,9.88,Lifestyle Family Fitness,3 years,RENT,52000.0,Fully Paid,major_purchase,FL,11.28,720.0,724.0
+5800.0,14.59,Credit Suisse AG,< 1 year,RENT,75000.0,Fully Paid,car,NY,1.86,705.0,709.0
+5000.0,15.7,State of California  CALPERS,10+ years,RENT,60000.0,Fully Paid,debt_consolidation,CA,16.26,670.0,674.0
+14000.0,7.88,US Treasury,10+ years,MORTGAGE,70000.0,Fully Paid,debt_consolidation,NJ,14.37,750.0,754.0
+12000.0,7.88,LIRR,10+ years,MORTGAGE,105000.0,Fully Paid,debt_consolidation,NY,4.97,790.0,794.0
+14000.0,12.73,Venturi Aerospace,2 years,MORTGAGE,73008.0,Fully Paid,debt_consolidation,AL,18.85,705.0,709.0
+10000.0,9.88,Sensis Corporation,2 years,RENT,103241.0,Fully Paid,debt_consolidation,NY,14.44,725.0,729.0
+15000.0,11.36,Complet Computer Solutions,10+ years,MORTGAGE,72000.0,Charged Off,small_business,MI,17.82,710.0,714.0
+15000.0,11.36,USDC,10+ years,MORTGAGE,98132.0,Fully Paid,other,FL,24.24,705.0,709.0
+14000.0,7.88,The Mind Research Network,2 years,OWN,47000.0,Fully Paid,debt_consolidation,NM,4.98,745.0,749.0
+13000.0,15.33,Britt's Inc.,5 years,RENT,46540.92,Fully Paid,debt_consolidation,VA,8.87,675.0,679.0
+6300.0,13.11,Orrick LLP,5 years,RENT,170000.0,Fully Paid,debt_consolidation,CA,24.52,685.0,689.0
+4000.0,9.88,COMCAST,3 years,RENT,52000.0,Fully Paid,credit_card,PA,2.47,715.0,719.0
+10000.0,15.33,County Sanitation Districts of L.A. Co.,10+ years,RENT,83628.0,Fully Paid,credit_card,CA,19.23,675.0,679.0
+2100.0,7.88,Publix Supermarkets,2 years,RENT,21000.0,Fully Paid,wedding,FL,21.52,750.0,754.0
+10000.0,9.88,ThoughtWorks  Inc.,5 years,RENT,84456.0,Fully Paid,other,IL,1.73,750.0,754.0
+1500.0,6.39,OATI,5 years,MORTGAGE,77000.0,Fully Paid,credit_card,MN,2.38,770.0,774.0
+8500.0,16.07,FDNY,2 years,RENT,31800.0,Charged Off,debt_consolidation,NY,23.07,670.0,674.0
+20000.0,14.96,Curry & Friend,10+ years,MORTGAGE,260000.0,Fully Paid,debt_consolidation,LA,12.58,685.0,689.0
+4000.0,10.62,,,RENT,27500.0,Charged Off,credit_card,MO,5.76,705.0,709.0
+20000.0,14.59,Kforce (contractor with ITT),< 1 year,RENT,107000.0,Fully Paid,debt_consolidation,VA,16.63,685.0,689.0
+12000.0,9.88,RED ROBIN,3 years,MORTGAGE,40000.0,Fully Paid,educational,OH,5.16,755.0,759.0
+1750.0,10.99,Florida International University,3 years,MORTGAGE,30000.0,Fully Paid,Time has become an issue. This device allows me to expedite the process significantly,Faster,"This is why I'm applying for a loan.<br/>\"",331xx,FL
+7500.0,10.25,,5 years,RENT,81000.0,Fully Paid,other,CA,7.36,795.0,799.0
+1400.0,13.11,Record Searchlight,4 years,RENT,30000.0,Fully Paid,credit_card,CA,9.8,695.0,699.0
+9000.0,9.88,TSI CORP,3 years,MORTGAGE,41000.0,Fully Paid,car,TX,10.6,730.0,734.0
+1000.0,6.76,WMCR,10+ years,OWN,60000.0,Fully Paid,home_improvement,NY,10.18,750.0,754.0
+5000.0,10.62,Club Eight,4 years,RENT,24000.0,Fully Paid,credit_card,CA,21.6,705.0,709.0
+4200.0,11.36,billmatrix,5 years,MORTGAGE,33000.0,Charged Off,debt_consolidation,TX,7.49,685.0,689.0
+5600.0,14.96,Pension Benefit Guaranty Corporation,1 year,RENT,45000.0,Charged Off,debt_consolidation,MD,4.0,665.0,669.0
+25000.0,10.99,State of Oregon: Dept. Human Srvcs,9 years,MORTGAGE,68340.0,Fully Paid,debt_consolidation,OR,12.13,735.0,739.0
+7000.0,12.73,ADECCO,1 year,RENT,64800.0,Fully Paid,debt_consolidation,CA,23.96,695.0,699.0
+21000.0,10.62,,,OWN,50000.0,Fully Paid,credit_card,IL,15.18,735.0,739.0
+8000.0,13.11,leesville auto,7 years,RENT,55000.0,Fully Paid,debt_consolidation,NJ,6.37,685.0,689.0
+3000.0,10.25,Daiichi Sankyo,< 1 year,RENT,47000.0,Fully Paid,major_purchase,GA,20.5,700.0,704.0
+3500.0,6.39,Quaker Valley School District,10+ years,MORTGAGE,74900.0,Fully Paid,other,PA,14.18,780.0,784.0
+8500.0,7.14,Blackbaud,10+ years,MORTGAGE,74880.0,Fully Paid,debt_consolidation,CO,19.7,775.0,779.0
+4000.0,10.25,Mast Trucking,6 years,RENT,26000.0,Fully Paid,other,PA,1.85,755.0,759.0
+15000.0,7.88,,5 years,MORTGAGE,91000.0,Fully Paid,small_business,TX,9.61,790.0,794.0
+12800.0,12.73,Tradition Energy,3 years,RENT,44400.0,Fully Paid,credit_card,CT,12.3,710.0,714.0
+8000.0,10.62,Inter-Roth,3 years,OWN,51456.0,Fully Paid,other,PA,15.0,710.0,714.0
+7200.0,13.48,Walgreens,2 years,RENT,38896.0,Fully Paid,car,WI,11.2,675.0,679.0
+7500.0,10.99,TNT POOL SERVICE,4 years,RENT,48659.0,Fully Paid,car,NV,6.83,720.0,724.0
+1200.0,13.85,PIAA,5 years,OWN,60000.0,Charged Off,other,PA,3.08,705.0,709.0
+12000.0,7.88,Gustave A Larson Company,6 years,MORTGAGE,43000.0,Fully Paid,credit_card,WI,13.87,750.0,754.0
+10000.0,9.88,Citigroup,4 years,OWN,100000.0,Fully Paid,credit_card,NJ,9.55,725.0,729.0
+7500.0,10.25,Milliken & Company,3 years,MORTGAGE,61000.0,Fully Paid,small_business,SC,3.52,750.0,754.0
+16000.0,15.33,excel construction,8 years,MORTGAGE,95000.0,Fully Paid,debt_consolidation,LA,15.92,670.0,674.0
+3500.0,6.76,Upper Lakes Foods,3 years,MORTGAGE,52000.0,Fully Paid,educational,MN,14.54,775.0,779.0
+2000.0,14.96,"C & C Machine, Inc.",5 years,RENT,43680.0,Fully Paid,debt_consolidation,MA,15.27,665.0,669.0
+5000.0,7.14,merck,10+ years,MORTGAGE,80000.0,Fully Paid,debt_consolidation,NJ,6.57,750.0,754.0
+20000.0,9.88,Carroll Burdick & McDonough,5 years,MORTGAGE,82000.0,Fully Paid,home_improvement,CA,8.25,790.0,794.0
+10000.0,13.48,Ramat Shalom,9 years,MORTGAGE,150000.0,Fully Paid,debt_consolidation,FL,12.49,735.0,739.0
+14400.0,13.85,Sysco Foodservice,10+ years,RENT,100000.0,Fully Paid,credit_card,OR,12.7,685.0,689.0
+9000.0,12.73,Best Way Home Improvement,< 1 year,RENT,26000.0,Charged Off,debt_consolidation,VA,17.12,690.0,694.0
+5800.0,13.48,Atlantic Southwest Airline,2 years,MORTGAGE,40000.0,Charged Off,other,GA,14.58,680.0,684.0
+12000.0,14.59,US Army,8 years,MORTGAGE,133000.0,Charged Off,debt_consolidation,VA,12.48,690.0,694.0
+5000.0,7.14,"Aktiv-Dry, LLC",3 years,MORTGAGE,70200.0,Fully Paid,medical,CO,6.31,745.0,749.0
+4000.0,14.96,3m,10+ years,RENT,45000.0,Fully Paid,other,IL,1.79,680.0,684.0
+20500.0,13.48,3M,2 years,MORTGAGE,101138.0,Fully Paid,credit_card,MN,18.91,700.0,704.0
+16000.0,12.73,Roseville Community Schools,10+ years,MORTGAGE,79000.0,Fully Paid,debt_consolidation,MI,24.67,710.0,714.0
+1200.0,10.99,East Alabama Medical Center,4 years,OWN,26000.0,Fully Paid,home_improvement,AL,10.71,685.0,689.0
+10000.0,7.88,College of Westchester,< 1 year,MORTGAGE,52000.0,Fully Paid,car,CT,9.09,760.0,764.0
+3200.0,7.88,dell perot systems,3 years,MORTGAGE,56566.0,Fully Paid,credit_card,TX,21.49,720.0,724.0
+8000.0,9.88,Orange County Sanitation District,8 years,RENT,108000.0,Fully Paid,other,CA,1.44,755.0,759.0
+16000.0,7.88,Alameda County BHCS,10+ years,MORTGAGE,78500.0,Fully Paid,small_business,CA,14.97,780.0,784.0
+5000.0,12.73,University of Pennsylvania,7 years,RENT,47000.0,Fully Paid,debt_consolidation,PA,2.04,685.0,689.0
+10000.0,14.96,Miami-Dade County Public Schools,10+ years,MORTGAGE,41000.0,Fully Paid,debt_consolidation,FL,16.42,685.0,689.0
+10000.0,10.25,The Home Depot,7 years,OWN,35000.0,Fully Paid,debt_consolidation,MI,11.59,715.0,719.0
+4200.0,6.76,Union Building & Loan Savings Bank,7 years,OWN,40000.0,Fully Paid,debt_consolidation,PA,19.83,775.0,779.0
+10000.0,12.73,NDeX,10+ years,MORTGAGE,78000.0,Fully Paid,debt_consolidation,TX,16.15,695.0,699.0
+12800.0,19.41,Law Offices,2 years,RENT,52000.0,Fully Paid,debt_consolidation,VA,11.15,670.0,674.0
+15000.0,7.88,Cancer Tx Ctrs of America,9 years,MORTGAGE,136240.0,Fully Paid,debt_consolidation,OK,8.75,780.0,784.0
+7000.0,14.96,Leisure Living,4 years,MORTGAGE,23000.0,Fully Paid,debt_consolidation,MI,17.06,670.0,674.0
+14000.0,9.88,Children's Hospital Boston,< 1 year,RENT,37000.0,Fully Paid,"but it is not at all due to unreliable behavior.\"\"<br/>\"",024xx,MA,Jul-1999,735.0
+12000.0,12.73,"Walmart Stores, Inc - Sam's Club",4 years,MORTGAGE,96000.0,Fully Paid,debt_consolidation,AR,2.51,695.0,699.0
+24250.0,12.73,ADP,4 years,RENT,68375.0,Fully Paid,educational,PA,21.13,715.0,719.0
+20000.0,10.99,Meso-scale Discovery,1 year,RENT,60000.0,Fully Paid,debt_consolidation,MD,17.52,725.0,729.0
+15500.0,7.88,Diageo North America,< 1 year,RENT,125000.0,Fully Paid,credit_card,CT,7.05,780.0,784.0
+5000.0,12.73,Marquis Who's Who  LLC,3 years,RENT,55000.0,Fully Paid,major_purchase,NJ,7.77,685.0,689.0
+15000.0,10.99,,,OWN,39828.0,Fully Paid,debt_consolidation,MT,15.97,720.0,724.0
+25000.0,14.96,BCBSM,9 years,RENT,91000.0,Fully Paid,other,MI,3.98,705.0,709.0
+13000.0,10.25,Kidde Fenwal,10+ years,RENT,50000.0,Fully Paid,credit_card,RI,13.66,750.0,754.0
+23450.0,11.36,Nielsen,1 year,MORTGAGE,166000.0,Fully Paid,credit_card,WI,17.76,725.0,729.0
+14400.0,10.25,"MOG, Inc",2 years,MORTGAGE,75000.0,Fully Paid,debt_consolidation,OR,5.54,720.0,724.0
+24000.0,16.45,Ernst  and  Young,1 year,RENT,60000.0,Fully Paid,debt_consolidation,NY,21.78,690.0,694.0
+25000.0,11.36,,9 years,RENT,120000.0,Fully Paid,000 (income approx $10,bridge loan for successful marketing consultancy,949xx,0.0,Jan-1985
+18000.0,10.25,"Paychex, Inc",10+ years,MORTGAGE,62000.0,Charged Off,credit_card,PA,6.85,755.0,759.0
+5000.0,7.14,East Coast Honda - VW,10+ years,OWN,100000.0,Fully Paid,major_purchase,SC,3.14,765.0,769.0
+15000.0,10.99,North Texas Anesthesia,2 years,MORTGAGE,215000.0,Fully Paid,home_improvement,TX,0.41,750.0,754.0
+24000.0,12.73,wyndham worldwide,10+ years,OWN,175000.0,Fully Paid,debt_consolidation,SC,10.65,715.0,719.0
+6000.0,13.11,Luxottica Retail,2 years,RENT,19200.0,Fully Paid,other,GA,2.63,690.0,694.0
+10000.0,10.99,SigmaQuest,1 year,MORTGAGE,96000.0,Fully Paid,debt_consolidation,CA,16.1,710.0,714.0
+25000.0,14.96,,< 1 year,RENT,100000.0,Fully Paid,debt_consolidation,TX,17.24,700.0,704.0
+10000.0,14.22,"Blue Thumb, Inc./Houston House & Home",8 years,RENT,45000.0,Fully Paid,debt_consolidation,TX,12.48,680.0,684.0
+15000.0,12.73,Marriott Vacation Club International,9 years,MORTGAGE,95000.0,Fully Paid,debt_consolidation,FL,21.68,700.0,704.0
+22000.0,12.73,"Purina Mills, Inc.",10+ years,MORTGAGE,37000.0,Fully Paid,debt_consolidation,FL,12.16,720.0,724.0
+2400.0,13.11,PRAIRIE MECH,3 years,RENT,24000.0,Fully Paid,debt_consolidation,IL,18.2,695.0,699.0
+25000.0,15.33,Athens-Clarke County,10+ years,RENT,79000.0,Fully Paid,debt_consolidation,GA,13.96,695.0,699.0
+7000.0,14.96,Burns and McDonnell,< 1 year,RENT,51000.0,Charged Off,major_purchase,MO,8.59,670.0,674.0
+8500.0,11.36,Paradise Valley Hospital,1 year,RENT,44000.0,Fully Paid,other,AZ,17.13,695.0,699.0
+21000.0,11.36,MTV Networks,10+ years,RENT,80000.0,Fully Paid,credit_card,NY,23.1,720.0,724.0
+12000.0,7.51,,,MORTGAGE,66000.0,Fully Paid,debt_consolidation,NY,4.33,780.0,784.0
+5000.0,10.99,Hensel Phelps Construction,1 year,RENT,68648.26,Fully Paid,major_purchase,CA,12.27,720.0,724.0
+7500.0,12.73,FaulknerUSA,< 1 year,RENT,45000.0,Fully Paid,debt_consolidation,TX,17.28,690.0,694.0
+2000.0,7.51,Pasco Middle School,7 years,OWN,36700.0,Fully Paid,credit_card,FL,21.02,730.0,734.0
+15000.0,9.88,,8 years,OWN,250000.0,Fully Paid,debt_consolidation,AZ,4.95,755.0,759.0
+10800.0,7.88,Newark Board of Education,1 year,RENT,52300.0,Fully Paid,car,PA,3.76,740.0,744.0
+15000.0,9.88,amec,3 years,MORTGAGE,100000.0,Fully Paid,debt_consolidation,GA,4.12,755.0,759.0
+7000.0,10.25,Houston Airport System,5 years,RENT,46000.0,Fully Paid,debt_consolidation,TX,23.77,715.0,719.0
+3000.0,10.62,,,OWN,32400.0,Fully Paid,medical,TX,0.37,805.0,809.0
+8000.0,7.14,Academy of Holy Angels,3 years,MORTGAGE,65000.0,Fully Paid,debt_consolidation,MN,16.82,775.0,779.0
+14500.0,9.88,NKG Productions,2 years,RENT,36000.0,Fully Paid,debt_consolidation,OH,24.4,740.0,744.0
+18000.0,14.22,Cembre,7 years,MORTGAGE,69000.0,Fully Paid,debt_consolidation,NJ,17.57,680.0,684.0
+11000.0,13.11,Johnson and Johnson,4 years,MORTGAGE,104000.0,Fully Paid,debt_consolidation,WA,11.88,685.0,689.0
+20000.0,10.25,Chop't Creative Salad Company,2 years,RENT,65000.0,Fully Paid,other,NJ,13.22,755.0,759.0
+12500.0,15.33,Daniel Richards,5 years,OWN,75000.0,Fully Paid,debt_consolidation,GA,0.64,675.0,679.0
+25000.0,10.99,North Central College,4 years,RENT,49000.0,Fully Paid,small_business,IL,17.88,735.0,739.0
+25000.0,11.36,E1 Entertainment,5 years,RENT,135000.0,Fully Paid,debt_consolidation,NY,20.51,725.0,729.0
+5000.0,13.48,Wayne Developers,10+ years,MORTGAGE,60000.0,Fully Paid,other,MA,6.52,680.0,684.0
+14000.0,9.88,Coldwell Banker The Aspen Brokers,2 years,RENT,50000.0,Fully Paid,debt_consolidation,CO,6.1,740.0,744.0
+21600.0,13.11,BWH and NWH Physicians Organization,10+ years,MORTGAGE,200000.0,Fully Paid,credit_card,MA,7.98,710.0,714.0
+5600.0,14.59,,1 year,RENT,14400.0,Charged Off,debt_consolidation,MA,6.33,685.0,689.0
+10000.0,9.88,Northeast Marine Sanitation,7 years,MORTGAGE,70000.0,Fully Paid,small_business,NY,11.78,730.0,734.0
+4000.0,12.73,Allens CTI LLC,2 years,RENT,48000.0,Charged Off,small_business,CA,11.68,720.0,724.0
+15000.0,16.82,Townsend and Townsend and Crew LLP,< 1 year,RENT,160000.0,Fully Paid,debt_consolidation,CA,22.57,680.0,684.0
+2500.0,7.51,,,RENT,17040.0,Fully Paid,credit_card,GA,23.45,725.0,729.0
+13000.0,13.11,Federal Deposit Insurance Corp.,2 years,RENT,64000.0,Fully Paid,debt_consolidation,MA,18.68,705.0,709.0
+17000.0,9.88,Gateway Chiropractic,6 years,OWN,70000.0,Fully Paid,debt_consolidation,CA,16.82,745.0,749.0
+5500.0,12.73,premiere wall constuctors i,< 1 year,RENT,40440.0,Fully Paid,debt_consolidation,CA,22.91,685.0,689.0
+7750.0,9.88,AWK,< 1 year,MORTGAGE,41000.0,Fully Paid,credit_card,PA,24.64,720.0,724.0
+8000.0,10.99,PSI,2 years,RENT,37440.0,Fully Paid,small_business,CA,14.36,700.0,704.0
+13200.0,7.51,University of Phoenix,2 years,OWN,51700.0,Fully Paid,debt_consolidation,AZ,17.8,770.0,774.0
+6000.0,7.14,Table Mountain Rancheria,8 years,RENT,60495.0,Fully Paid,car,CA,13.43,760.0,764.0
+5000.0,14.59,Bay 6 Productions,2 years,RENT,40000.0,Fully Paid,debt_consolidation,AZ,22.86,690.0,694.0
+6500.0,7.51,TVO North America,2 years,RENT,41000.0,Fully Paid,major_purchase,TX,16.8,745.0,749.0
+6000.0,13.11,Cedar Hammock Fire Rescue,6 years,MORTGAGE,60000.0,Fully Paid,major_purchase,FL,2.82,685.0,689.0
+19000.0,16.82,GUCCI AMERICA,3 years,RENT,50000.0,Fully Paid,debt_consolidation,NJ,18.41,665.0,669.0
+25000.0,15.33,Prescott Cardiology,< 1 year,MORTGAGE,300000.0,Fully Paid,debt_consolidation,AZ,16.16,690.0,694.0
+4750.0,13.11,Borgata Hotel Casino,7 years,MORTGAGE,85000.0,Charged Off,debt_consolidation,NJ,18.49,680.0,684.0
+7800.0,7.14,Family Counseling Center,3 years,MORTGAGE,36000.0,Fully Paid,educational,MO,15.27,790.0,794.0
+3200.0,15.7,"Reno Hardware & Supply, Inc.",5 years,RENT,47515.0,Fully Paid,moving,CA,2.32,670.0,674.0
+14000.0,10.25,E2 Inc.,4 years,RENT,62500.0,Fully Paid,debt_consolidation,VA,15.27,720.0,724.0
+12000.0,14.22,hewlett packard,7 years,RENT,75000.0,Fully Paid,educational,HI,17.56,680.0,684.0
+25000.0,11.36,GIFTS Software,10+ years,RENT,91000.0,Fully Paid,credit_card,NY,22.59,725.0,729.0
+10000.0,14.96,San Diego Unified,10+ years,RENT,65000.0,Fully Paid,small_business,CA,20.77,665.0,669.0
+5000.0,13.11,Self,2 years,RENT,28800.0,Fully Paid,other,CA,20.04,700.0,704.0
+3250.0,7.14,Unitex Internatinal Inc,2 years,MORTGAGE,39000.0,Charged Off,debt_consolidation,GA,22.65,740.0,744.0
+8400.0,10.99,USPS,10+ years,MORTGAGE,52000.0,Fully Paid,debt_consolidation,TX,18.62,700.0,704.0
+4700.0,7.14,Comm. of Mass.,10+ years,MORTGAGE,120000.0,Fully Paid,other,MA,14.78,765.0,769.0
+12000.0,11.36,SUMAN ENTERTAINMENT GROUP,3 years,RENT,33600.0,Fully Paid,debt_consolidation,FL,16.82,710.0,714.0
+3000.0,10.99,Winchester Savings Bank,10+ years,RENT,43000.0,Fully Paid,debt_consolidation,MA,9.82,685.0,689.0
+12000.0,7.88,CEMEX INC.,3 years,RENT,38304.0,Fully Paid,debt_consolidation,CA,15.29,745.0,749.0
+16000.0,10.25,,10+ years,OWN,600000.0,Fully Paid,small_business,TX,4.61,730.0,734.0
+8000.0,13.11,University of Chicago,2 years,RENT,48000.0,Fully Paid,credit_card,IL,8.4,680.0,684.0
+4000.0,10.62,Klein Independent School District,5 years,MORTGAGE,49510.0,Fully Paid,other,TX,11.96,750.0,754.0
+13650.0,10.25,INTERNATIONAL FREIGHT SERVICES,8 years,RENT,45760.0,Fully Paid,debt_consolidation,CA,13.98,725.0,729.0
+25000.0,10.99,TW Telecom,2 years,OWN,75000.0,Fully Paid,debt_consolidation,OK,17.34,735.0,739.0
+15000.0,15.7,,< 1 year,RENT,84996.0,Fully Paid,debt_consolidation,NY,20.44,670.0,674.0
+6300.0,6.76,Sun Microsystems Inc,3 years,MORTGAGE,115000.0,Fully Paid,credit_card,CA,6.25,775.0,779.0
+12000.0,7.88,Ecuamerica International Inc,2 years,MORTGAGE,32000.0,Fully Paid,credit_card,FL,11.93,765.0,769.0
+3250.0,10.62,Berlin School District,5 years,MORTGAGE,45000.0,Fully Paid,credit_card,WI,17.23,705.0,709.0
+5000.0,7.51,LEON MEDICAL CENTERS,< 1 year,RENT,31404.0,Fully Paid,debt_consolidation,FL,11.58,735.0,739.0
+10000.0,7.51,SHEEHY FORD,10+ years,MORTGAGE,57000.0,Fully Paid,debt_consolidation,VA,8.97,755.0,759.0
+20000.0,13.48,Chemtura,3 years,MORTGAGE,114400.0,Fully Paid,debt_consolidation,CT,14.67,700.0,704.0
+5000.0,7.88,Kenmore-Tonawanda Union Free School Dist,10+ years,RENT,49296.0,Fully Paid,other,NY,16.89,725.0,729.0
+13000.0,14.59,Progressive Health and Rehabilitation,5 years,RENT,46000.0,Fully Paid,other,GA,22.98,675.0,679.0
+15000.0,11.36,Kings Park Central School District,3 years,RENT,48800.0,Fully Paid,debt_consolidation,NY,17.61,710.0,714.0
+15000.0,13.85,,10+ years,MORTGAGE,135000.0,Fully Paid,debt_consolidation,MD,19.29,685.0,689.0
+18000.0,15.33,New York City Transit,3 years,RENT,71000.0,Charged Off,debt_consolidation,NY,15.75,690.0,694.0
+8000.0,15.7,,,MORTGAGE,52800.0,Charged Off,home_improvement,CA,7.36,660.0,664.0
+10000.0,10.25,,,MORTGAGE,70000.0,Charged Off,other,NY,9.09,745.0,749.0
+1200.0,10.25,Telos Corporation,6 years,MORTGAGE,75873.0,Fully Paid,debt_consolidation,VA,13.36,700.0,704.0
+3000.0,14.96,American Arbitration Association,6 years,MORTGAGE,36500.0,Fully Paid,debt_consolidation,TX,23.84,675.0,679.0
+11500.0,7.51,Prince William COunty Govt.,9 years,MORTGAGE,65000.0,Fully Paid,debt_consolidation,VA,9.82,785.0,789.0
+6400.0,10.62,Smurfit-Stone,4 years,MORTGAGE,74280.0,Fully Paid,debt_consolidation,MO,23.54,705.0,709.0
+7200.0,13.11,"All Glass & Plastics, Inc",6 years,RENT,29120.0,Fully Paid,debt_consolidation,CA,9.68,695.0,699.0
+4000.0,12.73,kirkwood manor,< 1 year,MORTGAGE,40000.0,Fully Paid,debt_consolidation,TX,9.36,695.0,699.0
+15000.0,10.62,TM Advertising,< 1 year,MORTGAGE,87000.0,Fully Paid,credit_card,TX,14.95,730.0,734.0
+8500.0,7.51,Hotelicopter.com,1 year,MORTGAGE,65000.0,Fully Paid,credit_card,VA,20.05,755.0,759.0
+6000.0,10.25,Thomson Reuters,6 years,RENT,55840.0,Fully Paid,debt_consolidation,MA,16.33,710.0,714.0
+6000.0,7.51,AT&T,10+ years,MORTGAGE,75181.0,Fully Paid,car,GA,18.31,740.0,744.0
+25000.0,10.99,21st Century Home Health Agency,7 years,MORTGAGE,87000.0,Fully Paid,credit_card,OK,22.83,735.0,739.0
+12000.0,7.88,Follett,4 years,RENT,45000.0,Fully Paid,debt_consolidation,NY,7.92,755.0,759.0
+25000.0,18.3,diamondback Capital,2 years,RENT,235000.0,Charged Off,debt_consolidation,NY,7.28,670.0,674.0
+15000.0,14.22,"Excel Construction & Development, Inc.",10+ years,RENT,60000.0,Fully Paid,small_business,CA,3.48,700.0,704.0
+11000.0,10.62,Dept of Defense,10+ years,OWN,56700.0,Fully Paid,major_purchase,AL,10.48,780.0,784.0
+1600.0,11.36,Wells Fargo Fanancial,4 years,MORTGAGE,25000.0,Fully Paid,educational,WA,0.96,700.0,704.0
+25000.0,16.45,,< 1 year,MORTGAGE,180000.0,Charged Off,debt_consolidation,TX,13.96,685.0,689.0
+6000.0,12.73,Restoration Management Company,2 years,MORTGAGE,57000.0,Fully Paid,other,CA,7.73,685.0,689.0
+4000.0,15.33,Color Spectrum Network,5 years,RENT,35000.0,Charged Off,debt_consolidation,GA,9.12,665.0,669.0
+3525.0,14.59,American Medic of Charlotte Co.,5 years,RENT,36000.0,Fully Paid,car,FL,18.9,660.0,664.0
+25000.0,14.96,"Malcolm Pirnie, Inc.",10+ years,MORTGAGE,120000.0,Fully Paid,home_improvement,CO,16.28,700.0,704.0
+10000.0,10.25,Business Technology Group  LLC,2 years,RENT,39000.0,Fully Paid,debt_consolidation,LA,20.86,715.0,719.0
+3500.0,10.99,CITY OF RYE DEPT OF PUBLIC WORKS,4 years,MORTGAGE,59000.0,Fully Paid,debt_consolidation,NY,0.63,695.0,699.0
+20000.0,13.85,Design Logic Solutions,10+ years,MORTGAGE,181000.0,Fully Paid,debt_consolidation,CA,9.18,690.0,694.0
+25000.0,16.07,Bank Of America,2 years,MORTGAGE,216000.0,Fully Paid,credit_card,MA,14.23,745.0,749.0
+15000.0,10.25,Riverside Community College District,10+ years,MORTGAGE,125000.0,Charged Off,debt_consolidation,CA,14.96,735.0,739.0
+25000.0,16.07,US Government  EPA,10+ years,MORTGAGE,135000.0,Fully Paid,moving,IL,20.88,680.0,684.0
+10000.0,11.36,Morean Arts Center,10+ years,RENT,40000.0,Fully Paid,debt_consolidation,FL,11.19,730.0,734.0
+3000.0,7.51,KCTCS,5 years,MORTGAGE,70000.0,Fully Paid,other,KY,11.49,745.0,749.0
+14000.0,10.62,hachette book group,2 years,RENT,50000.0,Fully Paid,debt_consolidation,NY,13.25,720.0,724.0
+3600.0,7.88,,8 years,OWN,44894.0,Fully Paid,small_business,CT,11.79,715.0,719.0
+4800.0,10.62,Tallahassee Primary Care Associates,2 years,RENT,14400.0,Fully Paid,debt_consolidation,FL,3.33,740.0,744.0
+19000.0,10.99,EAM Partners  L.P.,3 years,RENT,72000.0,Fully Paid,major_purchase,TX,11.68,730.0,734.0
+2000.0,10.99,,4 years,MORTGAGE,62400.0,Fully Paid,small_business,GA,23.42,690.0,694.0
+7000.0,16.82,U.S. Fish and Wildlife Service,1 year,RENT,19200.0,Fully Paid,debt_consolidation,MA,12.63,665.0,669.0
+25000.0,15.7,Emory University,10+ years,MORTGAGE,99500.0,Fully Paid,debt_consolidation,GA,9.68,715.0,719.0
+12000.0,13.48,Hewlett Packard,1 year,RENT,50600.0,Fully Paid,debt_consolidation,TX,15.68,695.0,699.0
+20000.0,10.62,"Argsoft Consulting, LLC",2 years,MORTGAGE,95000.0,Fully Paid,home_improvement,VA,1.53,730.0,734.0
+3350.0,6.76,Nestle,10+ years,OWN,53000.0,Fully Paid,car,SC,23.55,755.0,759.0
+25000.0,12.73,Vantage Oncology Inc.,1 year,RENT,92000.0,Fully Paid,debt_consolidation,CA,15.47,720.0,724.0
+20000.0,13.11,United Capital,< 1 year,RENT,58000.0,Fully Paid,debt_consolidation,CA,8.3,715.0,719.0
+5200.0,17.19,TriWest Healthcare Alliance,7 years,MORTGAGE,69000.0,Fully Paid,small_business,AZ,0.57,685.0,689.0
+25000.0,15.7,IBM,3 years,RENT,132250.0,Fully Paid,debt_consolidation,CA,14.21,690.0,694.0
+6600.0,17.93,Massachusetts General Hospital,10+ years,RENT,130000.0,Fully Paid,debt_consolidation,MA,2.34,660.0,664.0
+16000.0,10.25,Meadow Electric,1 year,MORTGAGE,72000.0,Fully Paid,credit_card,CA,4.93,750.0,754.0
+12000.0,9.88,M S Title,5 years,MORTGAGE,96000.0,Fully Paid,debt_consolidation,MI,9.26,730.0,734.0
+24000.0,13.85,Dept of Defense Police,7 years,RENT,43000.0,Fully Paid,debt_consolidation,WA,13.7,720.0,724.0
+10000.0,7.88,"Brorson & Associates, P.C.",< 1 year,RENT,50000.0,Fully Paid,small_business,TX,3.46,755.0,759.0
+5000.0,7.88,pinellas county schools,10+ years,RENT,41000.0,Charged Off,debt_consolidation,FL,14.84,720.0,724.0
+1000.0,11.36,Forest Park Hospital,10+ years,MORTGAGE,17400.0,Fully Paid,other,MO,0.0,715.0,719.0
+12000.0,11.36,Crestron Electronics,3 years,OWN,30000.0,Charged Off,debt_consolidation,NJ,17.0,705.0,709.0
+14000.0,7.51,verizon communications,10+ years,MORTGAGE,58000.0,Fully Paid,debt_consolidation,FL,10.26,780.0,784.0
+21250.0,10.99,cablevision,5 years,RENT,47052.0,Fully Paid,debt_consolidation,NY,17.93,720.0,724.0
+5000.0,10.25,Majestic Industry Hills,10+ years,MORTGAGE,116000.0,Fully Paid,debt_consolidation,CA,18.61,705.0,709.0
+8500.0,11.36,DAVID KLEINBERG DESIGN,2 years,OWN,75000.0,Fully Paid,debt_consolidation,NY,4.46,695.0,699.0
+15000.0,14.96,Abbott Laboratories,2 years,MORTGAGE,96000.0,Fully Paid,debt_consolidation,IL,12.85,675.0,679.0
+9800.0,15.7,Glamour Shots,7 years,RENT,90000.0,Fully Paid,home_improvement,NJ,4.93,665.0,669.0
+5000.0,11.36,kaiser permanente,9 years,RENT,45000.0,Fully Paid,debt_consolidation,CA,6.51,685.0,689.0
+5000.0,13.48,,,RENT,36000.0,Fully Paid,debt_consolidation,KY,11.9,705.0,709.0
+10000.0,12.73,Risk Management Strategies/ Mary Mears Trust,1 year,RENT,60000.0,Fully Paid,house,CA,20.64,710.0,714.0
+1500.0,16.82,Worldwide Tech Services,< 1 year,RENT,30000.0,Fully Paid,other,MD,3.16,660.0,664.0
+4000.0,7.88,,< 1 year,MORTGAGE,148000.0,Fully Paid,credit_card,TX,16.98,725.0,729.0
+5000.0,11.36,Vanguard Printing,10+ years,RENT,58000.0,Charged Off,other,NY,23.96,685.0,689.0
+13200.0,13.48,National City Bank,2 years,OWN,35000.0,Fully Paid,debt_consolidation,FL,22.25,685.0,689.0
+5000.0,10.25,RBM of Atlanta,8 years,MORTGAGE,62000.0,Fully Paid,debt_consolidation,GA,8.65,715.0,719.0
+3000.0,14.22,Bayside Solutions,< 1 year,RENT,130000.0,Fully Paid,debt_consolidation,CA,0.6,665.0,669.0
+22500.0,14.96,FDR Management LLC,2 years,RENT,52500.0,Fully Paid,Macy's Visa is not new debt.  That account was opened in 2003.  I really don't know why the credit report isn't showing that balance.<br/> Borrower added on 02/07/10 > To Member_569427,credit_card,Pay off high interest rate credit cards,9.62,0.0
+15000.0,12.73,Law Offices of Marshall Watson,1 year,RENT,24000.0,Charged Off,other,FL,10.9,720.0,724.0
+16000.0,13.48,,5 years,RENT,50000.0,Charged Off,debt_consolidation,MD,21.07,695.0,699.0
+12000.0,14.96,,2 years,RENT,34000.0,Fully Paid,credit_card,FL,9.78,685.0,689.0
+10000.0,10.99,ellen elder care,6 years,RENT,24000.0,Fully Paid,credit_card,CA,16.15,710.0,714.0
+4000.0,11.36,Quinnipiac University,4 years,OWN,55200.0,Fully Paid,wedding,CT,16.13,685.0,689.0
+8000.0,13.85,,< 1 year,RENT,42000.0,Charged Off,small_business,HI,10.83,675.0,679.0
+5000.0,16.45,plaid pantry,2 years,RENT,16000.0,Fully Paid,debt_consolidation,OR,1.88,675.0,679.0
+10000.0,13.85,Chefjohns Fish & Chips,2 years,RENT,83976.0,Charged Off,major_purchase,CA,1.8,720.0,724.0
+18000.0,10.99,Lucile Packard Children's Hospital at Stanford,4 years,RENT,81972.0,Fully Paid,other,CA,22.82,715.0,719.0
+7500.0,14.96,Law Offices of Sandy Lipkin,3 years,RENT,90000.0,Fully Paid,car,CA,17.6,665.0,669.0
+1000.0,14.59,Dallas Drain Co,2 years,MORTGAGE,31200.0,Fully Paid,other,TX,6.15,680.0,684.0
+16750.0,10.62,TATA Consultancy Services,3 years,RENT,96600.0,Fully Paid,home_improvement,AZ,10.2,725.0,729.0
+4800.0,6.76,suntrust,10+ years,MORTGAGE,97000.0,Fully Paid,other,GA,13.4,785.0,789.0
+6000.0,17.19,SpawGlass Construction Corp,< 1 year,RENT,51000.0,Fully Paid,debt_consolidation,TX,4.8,665.0,669.0
+7000.0,14.96,Blue Cross Blue Shield of Massachusetts,7 years,RENT,36416.84,Charged Off,other,MA,9.65,660.0,664.0
+23800.0,10.25,Deutsche Bank,7 years,MORTGAGE,110000.0,Fully Paid,debt_consolidation,NY,5.41,770.0,774.0
+24000.0,20.16,yonkers fire department,9 years,RENT,120000.0,Fully Paid,home_improvement,NY,2.35,665.0,669.0
+18500.0,15.33,Maxim Integrated Products,2 years,OWN,60000.0,Fully Paid,debt_consolidation,CA,11.2,730.0,734.0
+22000.0,10.99,Giant Interactive,2 years,RENT,167000.0,Fully Paid,credit_card,CA,7.26,755.0,759.0
+11000.0,13.11,UPS,10+ years,MORTGAGE,79000.0,Fully Paid,other,NY,4.5,690.0,694.0
+1800.0,13.48,United States Dept. of State,1 year,RENT,510000.0,Fully Paid,credit_card,LA,1.3,665.0,669.0
+12000.0,13.11,Garland Independent School District,10+ years,MORTGAGE,60000.0,Fully Paid,debt_consolidation,TX,8.88,685.0,689.0
+20000.0,11.36,New England Financial,4 years,MORTGAGE,145000.0,Fully Paid,credit_card,MN,11.27,720.0,724.0
+10000.0,15.7,Sheward  and  Son  and  Sons,5 years,RENT,39312.0,Fully Paid,debt_consolidation,CA,21.73,660.0,664.0
+4000.0,13.11,St. Joseph Hospital,2 years,RENT,20000.0,Charged Off,debt_consolidation,CA,20.88,675.0,679.0
+17400.0,16.07,Walsworth Publishing Company,8 years,MORTGAGE,100000.0,Fully Paid,debt_consolidation,NJ,9.9,665.0,669.0
+25000.0,14.59,bernards,10+ years,RENT,48000.0,Charged Off,major_purchase,FL,3.95,715.0,719.0
+3000.0,10.25,Verizon Wireless,4 years,RENT,42000.0,Fully Paid,major_purchase,CT,0.44,710.0,714.0
+24250.0,15.33,SVB Financial Group,10+ years,MORTGAGE,98000.0,Fully Paid,debt_consolidation,CA,19.0,685.0,689.0
+10000.0,15.7,Bellevue Elementary School,2 years,RENT,30400.0,Fully Paid,debt_consolidation,CA,21.0,670.0,674.0
+13000.0,10.62,Retired,< 1 year,MORTGAGE,55728.0,Fully Paid,credit_card,NY,1.38,780.0,784.0
+7000.0,7.51,,,RENT,15600.0,Fully Paid,educational,WI,11.38,730.0,734.0
+9000.0,7.88,,,MORTGAGE,200000.0,Charged Off,educational,WI,4.18,735.0,739.0
+13000.0,10.62,Foley Inc.,2 years,MORTGAGE,45000.0,Fully Paid,debt_consolidation,NJ,23.55,720.0,724.0
+1000.0,13.48,t baker smith,2 years,MORTGAGE,88000.0,Fully Paid,major_purchase,LA,10.34,675.0,679.0
+21250.0,13.48,Powder River Energy,2 years,MORTGAGE,44449.6,Fully Paid,"please do not hesitate to ask.  I have contacted Lending Club about how to verify my income to make my loan more attractive as well.  Thank you!<br/>\"",827xx,WY,Oct-1996,700.0
+3600.0,7.14,Buchanan Community Schools,6 years,MORTGAGE,62000.0,Fully Paid,major_purchase,MI,16.51,730.0,734.0
+10000.0,14.96,Brett Twitty Insurance Agency,2 years,RENT,35000.0,Fully Paid,debt_consolidation,IL,18.65,675.0,679.0
+25000.0,15.33,Expressit Logisitics,10+ years,RENT,72000.0,Charged Off,small_business,MA,18.05,700.0,704.0
+8000.0,12.73,Carrabba's Italian Grill,1 year,RENT,25200.0,Fully Paid,debt_consolidation,VA,15.43,685.0,689.0
+9800.0,13.11,,,RENT,33000.0,Charged Off,debt_consolidation,NY,8.25,685.0,689.0
+24250.0,15.7,Health and Human Services Commission,6 years,RENT,103000.0,Fully Paid,credit_card,TX,16.9,685.0,689.0
+10000.0,10.99,"McTish, Kunkel & Associates",1 year,MORTGAGE,70000.0,Fully Paid,home_improvement,PA,17.04,705.0,709.0
+3000.0,7.51,Gabriel Brothers,8 years,RENT,24000.0,Charged Off,other,PA,5.55,725.0,729.0
+12000.0,14.59,T Rowe Price,4 years,RENT,53000.0,Fully Paid,debt_consolidation,MD,16.53,685.0,689.0
+8000.0,7.88,Fort Ann Central School,4 years,OWN,40000.0,Fully Paid,debt_consolidation,NY,24.33,745.0,749.0
+7000.0,14.96,Wachovia Bank,3 years,RENT,39600.0,Fully Paid,major_purchase,CA,9.18,680.0,684.0
+4000.0,17.19,,,OWN,37200.0,Charged Off,home_improvement,AL,9.35,665.0,669.0
+5400.0,7.88,Judicate West,10+ years,RENT,54000.0,Fully Paid,debt_consolidation,CA,21.27,725.0,729.0
+5600.0,11.36,Rapid Systems,< 1 year,RENT,45000.0,Fully Paid,credit_card,FL,20.11,710.0,714.0
+16000.0,16.07,nieman marcus group,4 years,RENT,66000.0,Fully Paid,debt_consolidation,CA,22.98,695.0,699.0
+6000.0,13.48,Voguebay,2 years,RENT,36000.0,Fully Paid,debt_consolidation,VA,14.77,680.0,684.0
+2000.0,13.11,"Pless Security, Inc.",9 years,RENT,25000.0,Fully Paid,other,GA,6.19,715.0,719.0
+15000.0,10.99,Adams Produce Companies,2 years,MORTGAGE,38000.0,Fully Paid,debt_consolidation,AL,11.24,715.0,719.0
+5000.0,7.88,Science Care,2 years,MORTGAGE,95000.0,Fully Paid,other,AZ,10.77,730.0,734.0
+12000.0,13.11,weaber inc.,10+ years,MORTGAGE,35000.0,Fully Paid,other,PA,13.71,690.0,694.0
+10750.0,14.22,usps,2 years,OWN,25000.0,Fully Paid,major_purchase,NY,11.38,675.0,679.0
+3200.0,15.7,Securitas,3 years,RENT,48000.0,Fully Paid,educational,WA,6.25,680.0,684.0
+9000.0,13.85,KB Home,< 1 year,RENT,43000.0,Fully Paid,debt_consolidation,TX,24.0,695.0,699.0
+8000.0,10.62,McKibbon Hotel Management,4 years,RENT,58033.0,Fully Paid,and the young lady I talked to that works for lending club advised me that I would have to wait for an email to come through in order to verify my income so I am waiting for that email.  Thank You,Engagement Ring Loan,326xx,0.0,Nov-2003
+15000.0,10.25,Cherokee County Gov,5 years,MORTGAGE,109000.0,Fully Paid,debt_consolidation,GA,15.34,745.0,749.0
+25000.0,16.07,SAVVIS,10+ years,OWN,130000.0,Fully Paid,credit_card,CA,19.62,695.0,699.0
+4000.0,9.88,Holiday Inn,4 years,RENT,13000.0,Fully Paid,major_purchase,NY,17.54,730.0,734.0
+20000.0,14.22,Jackson Lewis,10+ years,MORTGAGE,216000.0,Fully Paid,debt_consolidation,CA,12.04,690.0,694.0
+9500.0,14.59,,,RENT,21900.0,Fully Paid,major_purchase,WY,11.41,690.0,694.0
+24000.0,11.36,URS Corporation,8 years,MORTGAGE,99000.0,Fully Paid,debt_consolidation,PA,19.79,730.0,734.0
+20500.0,20.9,alliant credit union,5 years,OWN,69000.0,Charged Off,debt_consolidation,IL,24.52,660.0,664.0
+10000.0,10.99,Newtown Savings Bank,2 years,RENT,70000.0,Fully Paid,debt_consolidation,CT,6.69,710.0,714.0
+8000.0,12.73,Imperial Woodworks,5 years,MORTGAGE,420000.0,Fully Paid,debt_consolidation,TX,2.01,700.0,704.0
+15000.0,13.11,Spectrumk12,7 years,OWN,87000.0,Fully Paid,debt_consolidation,MD,11.24,690.0,694.0
+2000.0,11.36,American Express,8 years,RENT,57000.0,Fully Paid,debt_consolidation,NY,15.26,685.0,689.0
+5500.0,10.99,ATI Physical Therapy,2 years,RENT,48880.0,Fully Paid,debt_consolidation,IL,19.79,695.0,699.0
+13000.0,15.33,Colorado Springs Police Dept.,10+ years,MORTGAGE,57000.0,Fully Paid,debt_consolidation,CO,22.76,675.0,679.0
+16800.0,10.99,Cox Health,2 years,RENT,34819.0,Fully Paid,debt_consolidation,MO,20.13,720.0,724.0
+4000.0,10.25,Vantage Apparel,< 1 year,MORTGAGE,72500.0,Fully Paid,home_improvement,NJ,22.23,710.0,714.0
+10000.0,10.25,Bru Mar Farm,9 years,RENT,26400.0,Fully Paid,other,NY,15.45,720.0,724.0
+12000.0,12.73,Con Edison,5 years,MORTGAGE,90000.0,Fully Paid,debt_consolidation,NJ,22.75,695.0,699.0
+3600.0,7.14,hankook,5 years,MORTGAGE,51000.0,Fully Paid,vacation,OH,22.38,745.0,749.0
+4200.0,7.51,Pentegra Retirement Services,2 years,RENT,40000.0,Fully Paid,major_purchase,NY,15.57,740.0,744.0
+15000.0,15.33,PRECISION FUNDING GROUP LLC,3 years,OWN,85000.0,Charged Off,other,PA,22.63,680.0,684.0
+25000.0,10.62,V&F Transformer Corporation,1 year,RENT,78000.0,Fully Paid,credit_card,IL,12.32,755.0,759.0
+19000.0,10.99,U.S. Marshals Service,2 years,RENT,50000.0,Fully Paid,credit_card,CA,24.53,725.0,729.0
+15000.0,13.11,H&H Agency,< 1 year,RENT,85000.0,Fully Paid,debt_consolidation,CA,8.24,695.0,699.0
+1275.0,11.36,Cincinnati Christian University,3 years,MORTGAGE,45000.0,Fully Paid,credit_card,OH,18.83,690.0,694.0
+7000.0,7.88,Central Michigan University,1 year,RENT,55000.0,Fully Paid,major_purchase,MI,21.84,720.0,724.0
+15000.0,10.25,Tri City Medical Center,3 years,RENT,37000.0,Fully Paid,other,CA,3.66,740.0,744.0
+2500.0,7.14,National Book Foundation,10+ years,RENT,69000.0,Fully Paid,debt_consolidation,NY,0.2,760.0,764.0
+9000.0,7.88,Developmental Disability Consultants,2 years,RENT,48000.0,Fully Paid,debt_consolidation,CO,10.22,735.0,739.0
+15200.0,13.85,Resales Buy Owner,7 years,MORTGAGE,125000.0,Charged Off,major_purchase,FL,0.0,690.0,694.0
+25000.0,11.36,"Rowenn Holdings, Inc. (dba gSEMI)",5 years,RENT,125000.0,Fully Paid,debt_consolidation,CA,12.74,730.0,734.0
+1600.0,13.85,The Catholic Uni. of America,1 year,RENT,62000.0,Fully Paid,other,MD,20.15,680.0,684.0
+12000.0,7.88,LPL Financial,2 years,RENT,40000.0,Fully Paid,educational,CA,14.79,760.0,764.0
+1000.0,7.88,covanta energy,3 years,RENT,72000.0,Fully Paid,moving,NY,17.15,715.0,719.0
+24000.0,10.99,Walgreens,6 years,MORTGAGE,92000.0,Fully Paid,major_purchase,IL,15.69,740.0,744.0
+15000.0,7.88,advanced fabrication,5 years,MORTGAGE,150000.0,Fully Paid,home_improvement,CA,4.05,770.0,774.0
+10000.0,13.85,,,RENT,48720.0,Fully Paid,debt_consolidation,NY,16.5,700.0,704.0
+6000.0,12.73,Comprehensive Radiology Review,8 years,RENT,42000.0,Fully Paid,debt_consolidation,NY,19.63,675.0,679.0
+11000.0,7.51,"Ghosh Engineers, Inc.",10+ years,RENT,39500.0,Fully Paid,credit_card,WV,8.87,755.0,759.0
+12000.0,10.99,US Department of Defense,< 1 year,RENT,90000.0,Fully Paid,other,VA,13.43,705.0,709.0
+10000.0,10.99,Creative Electronics,10+ years,OWN,54000.0,Fully Paid,credit_card,IL,24.67,705.0,709.0
+3000.0,7.14,Matrix Resources,9 years,MORTGAGE,100000.0,Fully Paid,small_business,GA,6.5,745.0,749.0
+7000.0,10.62,Genesis,4 years,MORTGAGE,85280.0,Fully Paid,other,MA,17.58,705.0,709.0
+7000.0,7.88,,2 years,MORTGAGE,51000.0,Fully Paid,moving,PA,10.68,725.0,729.0
+10000.0,15.7,Kastle Systems,3 years,MORTGAGE,72900.0,Fully Paid,major_purchase,VA,3.29,660.0,664.0
+20000.0,13.85,Mitchell International,3 years,RENT,102000.0,Fully Paid,debt_consolidation,CA,23.45,710.0,714.0
+9600.0,9.88,Lifetouch,10+ years,RENT,32000.0,Fully Paid,other,IL,17.06,730.0,734.0
+9600.0,7.51,NYC TRANSIT,< 1 year,MORTGAGE,58000.0,Fully Paid,car,NY,9.89,775.0,779.0
+8000.0,10.25,Firstrust Bank,10+ years,MORTGAGE,100000.0,Fully Paid,other,PA,2.68,715.0,719.0
+9600.0,13.85,"Citadel Environmental Services, Inc.",2 years,RENT,90000.0,Fully Paid,debt_consolidation,CA,4.95,675.0,679.0
+11600.0,13.48,Eclipsys Corporation,2 years,MORTGAGE,61000.0,Fully Paid,credit_card,MO,10.9,680.0,684.0
+13350.0,14.59,Abacus Technology,< 1 year,RENT,56000.0,Fully Paid,debt_consolidation,WY,12.19,675.0,679.0
+4200.0,11.36,Dell Services,7 years,MORTGAGE,72000.0,Fully Paid,home_improvement,TX,10.57,685.0,689.0
+10000.0,10.25,zachry industral inc,2 years,MORTGAGE,86500.0,Fully Paid,debt_consolidation,FL,12.12,710.0,714.0
+5500.0,10.99,us forest service,10+ years,OWN,60000.0,Fully Paid,other,SC,17.42,695.0,699.0
+3000.0,10.25,Chicago Bancorp,< 1 year,RENT,28000.0,Fully Paid,credit_card,IL,23.61,700.0,704.0
+15000.0,7.88,Fiserv,4 years,MORTGAGE,84000.0,Fully Paid,other,IL,3.41,805.0,809.0
+9600.0,10.25,Baylor University Medical Center,2 years,RENT,45000.0,Fully Paid,debt_consolidation,TX,14.88,715.0,719.0
+25000.0,12.73,New York State Unified Court System,10+ years,MORTGAGE,121000.0,Fully Paid,debt_consolidation,NY,21.63,710.0,714.0
+12250.0,11.36,Uncommon Ground,1 year,MORTGAGE,30000.0,Fully Paid,debt_consolidation,IL,21.68,700.0,704.0
+5000.0,14.96,NISCAYAH,4 years,MORTGAGE,80000.0,Fully Paid,debt_consolidation,CA,13.24,685.0,689.0
+12000.0,14.22,scientel wireless,2 years,RENT,60000.0,Fully Paid,other,TX,16.06,685.0,689.0
+17500.0,13.85,Masa Management Group dba: Bella Bronze,3 years,MORTGAGE,75000.0,Charged Off,small_business,IL,22.18,695.0,699.0
+11000.0,14.22,Merrill Lynch,1 year,RENT,60000.0,Fully Paid,debt_consolidation,CA,18.6,680.0,684.0
+10000.0,9.88,Gap Inc.,6 years,RENT,23624.95,Fully Paid,credit_card,CA,19.61,735.0,739.0
+24000.0,12.73,The Boeing Company,10+ years,MORTGAGE,86500.0,Fully Paid,debt_consolidation,AL,15.27,720.0,724.0
+8500.0,16.45,bloomingdales,< 1 year,OWN,26000.0,Charged Off,debt_consolidation,NY,15.83,675.0,679.0
+8800.0,13.85,lowes rdc961,7 years,OWN,36000.0,Fully Paid,credit_card,PA,12.77,685.0,689.0
+10000.0,7.51,Apria healthcare,9 years,RENT,45000.0,Fully Paid,educational,FL,1.92,790.0,794.0
+16500.0,16.45,NYC Department of Corrections,9 years,OWN,96000.0,Charged Off,debt_consolidation,NY,15.1,665.0,669.0
+16000.0,14.22,Keller Williams Premier Realty,< 1 year,MORTGAGE,120000.0,Charged Off,other,MN,12.41,705.0,709.0
+25000.0,11.36,The Kramer Group,< 1 year,RENT,90000.0,Fully Paid,debt_consolidation,FL,11.11,730.0,734.0
+12000.0,7.88,Fidelity Investments,10+ years,MORTGAGE,110000.0,Fully Paid,debt_consolidation,NH,16.27,760.0,764.0
+5000.0,10.99,Timothy Gallagher,2 years,RENT,42288.0,Fully Paid,debt_consolidation,CA,9.53,735.0,739.0
+10000.0,10.25,MG BROTHERS CONSTRUCTION,3 years,RENT,33600.0,Fully Paid,educational,MD,11.04,735.0,739.0
+16000.0,13.11,Brigham  and  Women's Hospital,3 years,RENT,62800.0,Fully Paid,debt_consolidation,MA,20.96,705.0,709.0
+10000.0,7.88,Manor Downs,8 years,OWN,33600.0,Fully Paid,home_improvement,TX,21.23,745.0,749.0
+12000.0,12.73,County of Santa Clara,8 years,RENT,50361.0,Fully Paid,debt_consolidation,CA,18.35,695.0,699.0
+6025.0,10.99,Estes Express Lines,< 1 year,RENT,38000.0,Fully Paid,debt_consolidation,VA,9.0,740.0,744.0
+6000.0,7.88,Applebee's,8 years,MORTGAGE,46500.0,Fully Paid,house,MI,10.3,775.0,779.0
+6000.0,7.51,Omnicom Group,1 year,RENT,45000.0,Fully Paid,debt_consolidation,NY,6.64,740.0,744.0
+15000.0,10.25,Credit Agricole Structured Asset Mgmt,1 year,OWN,72000.0,Fully Paid,credit_card,NY,23.85,735.0,739.0
+15000.0,11.36,Michael Page International,2 years,RENT,50000.0,Fully Paid,credit_card,NY,4.1,765.0,769.0
+25000.0,19.04,Ryzen Solutions,3 years,RENT,95000.0,Fully Paid,debt_consolidation,CA,16.03,710.0,714.0
+20000.0,11.36,United States Postal Service,5 years,OWN,60000.0,Fully Paid,debt_consolidation,MI,15.28,715.0,719.0
+7000.0,11.36,InfoTech Solutions,< 1 year,RENT,56000.0,Fully Paid,wedding,NJ,8.61,695.0,699.0
+25000.0,10.99,Allergan,4 years,MORTGAGE,160000.0,Fully Paid,credit_card,CA,10.24,740.0,744.0
+15000.0,9.88,CERTIFIED MARINE,,OWN,45000.0,Fully Paid,other,NJ,12.91,795.0,799.0
+13000.0,7.88,Boston College,10+ years,MORTGAGE,135000.0,Fully Paid,credit_card,MA,14.09,750.0,754.0
+10000.0,12.73,Teletech At Home Inc,3 years,RENT,35000.0,Fully Paid,debt_consolidation,AL,8.71,700.0,704.0
+15000.0,11.36,Bankers Life & Casualty,3 years,OWN,152229.36,Fully Paid,credit_card,FL,9.0,740.0,744.0
+25000.0,14.59,One-Eighty Optics,< 1 year,RENT,75000.0,Fully Paid,debt_consolidation,CA,14.64,710.0,714.0
+8000.0,10.62,Reflectx Staffing Services,10+ years,RENT,85000.0,Fully Paid,major_purchase,NJ,17.92,730.0,734.0
+8000.0,13.48,University of California,6 years,RENT,82000.0,Charged Off,credit_card,CA,13.07,685.0,689.0
+13900.0,10.62,Unilever,3 years,RENT,76400.0,Fully Paid,debt_consolidation,NJ,15.41,715.0,719.0
+8000.0,7.14,The Corcoran Group,9 years,MORTGAGE,99800.0,Fully Paid,debt_consolidation,NY,10.16,770.0,774.0
+20000.0,10.25,PlusOne Holdings,4 years,RENT,45000.0,Fully Paid,debt_consolidation,NJ,4.11,745.0,749.0
+9700.0,13.85,eLoyalty,9 years,MORTGAGE,180000.0,Fully Paid,credit_card,TX,21.03,675.0,679.0
+20000.0,13.11,Sol MeliÃÂ¡ Vacation Club,1 year,MORTGAGE,65000.0,Charged Off,debt_consolidation,FL,14.29,710.0,714.0
+3000.0,10.62,target,1 year,RENT,26500.0,Fully Paid,educational,OH,10.6,715.0,719.0
+20000.0,11.36,Hackettstown Regional Medical Center,10+ years,MORTGAGE,75000.0,Fully Paid,credit_card,NJ,19.65,715.0,719.0
+10000.0,10.25,Moog,10+ years,MORTGAGE,67000.0,Fully Paid,debt_consolidation,NY,15.17,715.0,719.0
+16000.0,10.99,TLLJ INC,3 years,MORTGAGE,38000.0,Fully Paid,debt_consolidation,GA,20.18,720.0,724.0
+13750.0,12.73,,1 year,RENT,36000.0,Charged Off,debt_consolidation,CT,22.23,705.0,709.0
+3000.0,7.14,Jacobs Music,5 years,RENT,59000.0,Fully Paid,debt_consolidation,PA,12.85,730.0,734.0
+8000.0,12.73,MANSFIELD INDUSTRIAL,1 year,RENT,28800.0,Fully Paid,debt_consolidation,FL,15.5,685.0,689.0
+20000.0,13.85,U.S. MARINE CORPS,8 years,RENT,50000.0,Fully Paid,major_purchase,VA,13.15,695.0,699.0
+13000.0,14.59,Green dot,1 year,RENT,52000.0,Fully Paid,debt_consolidation,CA,13.64,675.0,679.0
+3500.0,7.88,JAK PIZZA CO.  INC.,4 years,RENT,19000.0,Fully Paid,debt_consolidation,OR,24.32,715.0,719.0
+7500.0,12.73,stockers excavating llc,8 years,RENT,26400.0,Fully Paid,debt_consolidation,OH,11.91,695.0,699.0
+6000.0,15.33,Whole foods,3 years,RENT,31000.0,Fully Paid,debt_consolidation,CO,11.26,665.0,669.0
+25000.0,10.99,PrimeLending,6 years,MORTGAGE,67000.0,Fully Paid,debt_consolidation,TX,19.9,750.0,754.0
+6000.0,10.25,Botanical Labratories,7 years,MORTGAGE,36000.0,Fully Paid,other,WA,14.9,760.0,764.0
+8200.0,7.88,Brawley Union HS District,10+ years,MORTGAGE,72000.0,Fully Paid,debt_consolidation,CA,12.23,745.0,749.0
+20000.0,10.62,Village Dermatology,1 year,MORTGAGE,29000.0,Fully Paid,debt_consolidation,AL,12.58,760.0,764.0
+1000.0,10.25,,,RENT,10500.0,Charged Off,educational,CA,21.37,700.0,704.0
+7300.0,7.88,Silicon Valley Bank,1 year,RENT,45999.96,Fully Paid,debt_consolidation,CA,10.74,725.0,729.0
+10200.0,12.73,Olympus Surgical,< 1 year,RENT,55000.0,Fully Paid,other,NY,9.6,695.0,699.0
+20000.0,13.48,Smallwood Dental,< 1 year,MORTGAGE,100000.0,Fully Paid,debt_consolidation,VA,20.5,700.0,704.0
+2000.0,11.36,AllianceBernstein,7 years,RENT,70028.0,Fully Paid,other,NY,0.34,695.0,699.0
+8000.0,15.33,Harris Corporation,6 years,MORTGAGE,77000.0,Fully Paid,debt_consolidation,FL,16.04,675.0,679.0
+2000.0,7.88,HICKMAN AGENCY INC,4 years,RENT,27000.0,Fully Paid,house,MI,21.56,715.0,719.0
+12000.0,10.99,,10+ years,MORTGAGE,154000.0,Fully Paid,small_business,CT,19.25,710.0,714.0
+18000.0,13.48,Unilever,2 years,RENT,56000.0,Fully Paid,debt_consolidation,VA,21.26,695.0,699.0
+1000.0,7.14,State of New Jersey,< 1 year,RENT,51000.0,Fully Paid,major_purchase,NJ,16.99,760.0,764.0
+16800.0,13.85,Frito Lay Inc,< 1 year,RENT,60000.0,Fully Paid,wedding,GA,5.36,695.0,699.0
+6000.0,7.14,New York City Dept of Transportation,2 years,RENT,54981.0,Fully Paid,credit_card,NY,17.26,765.0,769.0
+20000.0,13.11,Fidelity Investments,2 years,MORTGAGE,90000.0,Fully Paid,debt_consolidation,RI,11.6,705.0,709.0
+17400.0,13.48,"SCR, Inc.",5 years,MORTGAGE,78400.0,Fully Paid,home_improvement,TX,3.6,740.0,744.0
+4500.0,9.88,guildmark group,3 years,MORTGAGE,31500.0,Fully Paid,other,OH,20.76,720.0,724.0
+6000.0,7.14,Polaris Industries,< 1 year,RENT,86000.0,Fully Paid,other,MN,3.42,765.0,769.0
+12000.0,10.62,Gravell  and  Company,2 years,RENT,90000.0,Fully Paid,debt_consolidation,TX,24.16,715.0,719.0
+15000.0,10.62,Seville Police Dept.,5 years,MORTGAGE,50055.0,Fully Paid,debt_consolidation,OH,16.18,730.0,734.0
+20000.0,14.59,NYCT,10+ years,RENT,66690.0,Fully Paid,debt_consolidation,NY,23.52,680.0,684.0
+22000.0,10.25,G. Porter Co,5 years,MORTGAGE,75693.81,Fully Paid,other,IL,15.46,760.0,764.0
+11200.0,10.62,"RightNow Technologies, Inc.",2 years,RENT,41600.0,Fully Paid,debt_consolidation,MT,15.92,720.0,724.0
+24500.0,13.85,New York City Transit,10+ years,RENT,84200.0,Fully Paid,"I have requested this loan because of the high interest I am paying on the balances on my credit cards. Some APRS  from  17.99 to 19.99 even with my good credit score. It is time to say good bye to these credit card companies.  <br/>   I have been on my job for 21 years and yes it is my career.<br/>I have learned that paying cash is the best way to go these days. I have a plan to be almost debt free because we all will have some type of debt in this lifetime. If I am funded/approved for this loan it will surely help.<br/>So if you have any questions feel free to submit them.<br/><br/> I Thank You for your time and consideration.<br/>\"",112xx,NY,Sep-1995,710.0
+10000.0,13.85,British Motors,4 years,RENT,72000.0,Fully Paid,debt_consolidation,CA,12.83,680.0,684.0
+20000.0,14.96,Hankins Services Inc,5 years,MORTGAGE,80000.0,Fully Paid,credit_card,MO,20.76,675.0,679.0
+10800.0,14.59,dubois regional medical center,10+ years,OWN,25100.0,Fully Paid,other,PA,1.96,675.0,679.0
+15000.0,10.25,McLarens Yong International,10+ years,MORTGAGE,120000.0,Fully Paid,other,IL,14.2,730.0,734.0
+3800.0,14.59,,< 1 year,OWN,20400.0,Charged Off,debt_consolidation,CA,19.29,670.0,674.0
+10000.0,7.51,HEB,7 years,MORTGAGE,24000.0,Fully Paid,debt_consolidation,TX,10.8,785.0,789.0
+8000.0,11.36,CHEP,3 years,MORTGAGE,63344.0,Fully Paid,debt_consolidation,FL,15.04,695.0,699.0
+5000.0,10.62,Plaza Gifts and Jewelry,8 years,RENT,25000.0,Fully Paid,credit_card,FL,7.06,700.0,704.0
+11200.0,11.14,,< 1 year,RENT,150000.0,Fully Paid,credit_card,NY,7.13,720.0,724.0
+13000.0,10.25,Marshall University,10+ years,MORTGAGE,105000.0,Fully Paid,debt_consolidation,WV,17.22,725.0,729.0
+25000.0,15.33,Placer Insurance Agency,9 years,MORTGAGE,130000.0,Fully Paid,debt_consolidation,CA,16.35,695.0,699.0
+6000.0,7.51,Coyote Point Systems,5 years,RENT,55000.0,Fully Paid,debt_consolidation,CT,22.28,735.0,739.0
+10000.0,13.85,,10+ years,RENT,140000.0,Charged Off,credit_card,IL,7.25,695.0,699.0
+23975.0,17.93,Wellsfargo Home Mortgage,3 years,MORTGAGE,150000.0,Charged Off,debt_consolidation,GA,23.44,670.0,674.0
+17400.0,7.88,"Wakely Consulting Group, Inc.",< 1 year,MORTGAGE,160000.0,Fully Paid,other,MN,8.12,770.0,774.0
+12000.0,7.88,ARAMARK,4 years,RENT,120000.0,Fully Paid,moving,AZ,19.6,745.0,749.0
+12500.0,10.25,"AMERITA, INC.",2 years,RENT,63000.0,Fully Paid,debt_consolidation,CO,11.77,730.0,734.0
+8500.0,7.88,Wells Fargo Bank,4 years,MORTGAGE,55000.0,Fully Paid,debt_consolidation,CA,7.85,735.0,739.0
+13000.0,10.25,"Marit, Inc.",3 years,RENT,37000.0,Fully Paid,debt_consolidation,MO,17.61,730.0,734.0
+18000.0,16.45,Ad-Base Systems,10+ years,MORTGAGE,300000.0,Fully Paid,credit_card,FL,6.77,715.0,719.0
+12000.0,16.45,doubledyno,2 years,MORTGAGE,170000.0,Fully Paid,other,CA,10.05,690.0,694.0
+20000.0,13.11,United States Army,10+ years,MORTGAGE,140000.0,Charged Off,small_business,KY,9.21,730.0,734.0
+25000.0,10.25,,,MORTGAGE,134000.0,Fully Paid,small_business,OH,0.13,785.0,789.0
+2100.0,13.48,PrimeSource,< 1 year,RENT,23000.0,Fully Paid,other,CO,3.7,665.0,669.0
+3000.0,7.51,Sunshine Bible Academy,1 year,RENT,15500.0,Fully Paid,credit_card,SD,14.55,740.0,744.0
+17600.0,14.26,URS Corporation,8 years,RENT,88000.0,Fully Paid,debt_consolidation,NY,8.73,690.0,694.0
+25000.0,12.53,Saint Vincent Hospital,5 years,MORTGAGE,130000.0,Fully Paid,home_improvement,PA,11.13,750.0,754.0
+20000.0,11.83,Com Dev USA,2 years,RENT,98000.0,Fully Paid,debt_consolidation,CA,19.93,735.0,739.0
+14900.0,13.57,Sughrue Mion PLLC,2 years,RENT,58900.0,Fully Paid,debt_consolidation,DC,12.0,685.0,689.0
+15000.0,12.18,,< 1 year,OWN,70000.0,Charged Off,educational,NJ,2.18,735.0,739.0
+25000.0,12.53,Equant,10+ years,MORTGAGE,113000.0,Fully Paid,other,GA,6.9,725.0,729.0
+22000.0,15.65,Liberty CDS inc,6 years,MORTGAGE,65000.0,Fully Paid,small_business,PA,17.28,730.0,734.0
+12000.0,13.85,DP Engineering,3 years,MORTGAGE,60000.0,Does not meet the credit policy. Status:Charged Off,medical,TX,20.88,685.0,689.0
+15000.0,14.22,Scepter Sales & Trading,5 years,MORTGAGE,73000.0,Does not meet the credit policy. Status:Fully Paid,other,NY,14.52,685.0,689.0
+3000.0,10.99,State Farm Insurance,2 years,RENT,30000.0,Does not meet the credit policy. Status:Fully Paid,other,IL,18.6,700.0,704.0
+12500.0,17.56,Emich VW,2 years,MORTGAGE,96000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,CO,7.33,675.0,679.0
+15000.0,13.48,halls window center,7 years,RENT,56000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,CA,17.76,715.0,719.0
+1000.0,19.79,Presbyterian Homes,5 years,RENT,42000.0,Does not meet the credit policy. Status:Fully Paid,vacation,MN,22.17,665.0,669.0
+4000.0,13.85,Marlin Offshore,3 years,RENT,60000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,TX,18.18,675.0,679.0
+3000.0,13.11,Georgia Pacific,2 years,RENT,58000.0,Does not meet the credit policy. Status:Fully Paid,other,VA,8.23,685.0,689.0
+14500.0,21.64,,,RENT,60000.0,Does not meet the credit policy. Status:Charged Off,other,NY,24.06,660.0,664.0
+15000.0,13.85,EMC Corporation,10+ years,MORTGAGE,225000.0,Does not meet the credit policy. Status:Fully Paid,other,CA,12.33,685.0,689.0
+17000.0,10.99,Wireless Ronin Technologies,3 years,MORTGAGE,75000.0,Does not meet the credit policy. Status:Charged Off,debt_consolidation,MN,17.84,725.0,729.0
+20500.0,12.73,Emrace Home Loans,2 years,MORTGAGE,82000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,DE,21.13,730.0,734.0
+3700.0,7.88,,,MORTGAGE,59820.0,Does not meet the credit policy. Status:Fully Paid,other,CO,10.17,720.0,724.0
+15000.0,18.67,,1 year,RENT,90000.0,Does not meet the credit policy. Status:Fully Paid,other,CA,15.76,665.0,669.0
+20000.0,15.33,chartis insurance,2 years,RENT,134000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NJ,17.21,680.0,684.0
+14400.0,10.25,knxv-tv,4 years,MORTGAGE,200000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,AZ,13.97,720.0,724.0
+20000.0,13.11,Department of Veterans Affairs,10+ years,MORTGAGE,218000.0,Does not meet the credit policy. Status:Charged Off,home_improvement,TX,9.94,715.0,719.0
+20000.0,13.48,First Investors Financial Serv,10+ years,MORTGAGE,64000.0,Does not meet the credit policy. Status:Fully Paid,other,TX,4.29,725.0,729.0
+25000.0,15.33,"Expressions Chiropractic & Rehab, PA",10+ years,MORTGAGE,139000.0,Does not meet the credit policy. Status:Fully Paid,small_business,TX,16.16,705.0,709.0
+16000.0,13.85,Chevron,3 years,MORTGAGE,130000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,CA,10.8,695.0,699.0
+13800.0,13.48,Cochella Valley Water District,5 years,RENT,58272.0,Does not meet the credit policy. Status:Fully Paid,other,CA,15.16,700.0,704.0
+10000.0,13.11,net ministries,5 years,RENT,44000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,MN,23.62,700.0,704.0
+15000.0,13.48,Homeloan Mortgage Corp,6 years,OWN,125000.0,Does not meet the credit policy. Status:Charged Off,home_improvement,FL,16.85,705.0,709.0
+25000.0,15.33,CIA,10+ years,MORTGAGE,140000.0,Does not meet the credit policy. Status:Fully Paid,small_business,VA,23.81,710.0,714.0
+4000.0,14.59,RWK Services,8 years,RENT,24000.0,Does not meet the credit policy. Status:Fully Paid,medical,OH,1.15,730.0,734.0
+19200.0,21.64,Baxter Healthcare,10+ years,MORTGAGE,144000.0,Does not meet the credit policy. Status:Charged Off,home_improvement,AZ,8.63,665.0,669.0
+2500.0,16.07,austins hair salon,6 years,MORTGAGE,48000.0,Does not meet the credit policy. Status:Charged Off,home_improvement,FL,14.2,665.0,669.0
+4200.0,16.07,Marketstar Inc.,< 1 year,OWN,19200.0,Does not meet the credit policy. Status:Charged Off,educational,VA,16.19,665.0,669.0
+7500.0,15.7,Conroe ISD The Woodlands HS,3 years,RENT,43000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,TX,21.35,660.0,664.0
+16000.0,15.7,Ohio state highway Patrol,10+ years,MORTGAGE,112000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,OH,23.51,675.0,679.0
+2500.0,7.88,Neils Lunceford,2 years,MORTGAGE,50000.0,Does not meet the credit policy. Status:Fully Paid,other,CO,20.38,730.0,734.0
+7000.0,13.11,Computer Aid  Inc.,3 years,RENT,51900.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,PA,13.11,685.0,689.0
+8000.0,13.48,Froedtert Hospital,5 years,MORTGAGE,73000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,WI,12.44,680.0,684.0
+10000.0,10.25,NRG Energy,1 year,MORTGAGE,71000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NJ,13.98,730.0,734.0
+5700.0,13.11,University of San Francisco,< 1 year,RENT,60000.0,Does not meet the credit policy. Status:Charged Off,debt_consolidation,CA,5.72,690.0,694.0
+5000.0,16.45,Alpha Baking,3 years,MORTGAGE,46000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,IL,10.75,670.0,674.0
+7125.0,14.22,US Housing and Urban Development,10+ years,MORTGAGE,105000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,VA,0.7,685.0,689.0
+3250.0,16.07,,,MORTGAGE,42192.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,MN,16.64,670.0,674.0
+16000.0,13.48,,5 years,OWN,300000.0,Does not meet the credit policy. Status:Charged Off,small_business,CT,3.12,735.0,739.0
+24000.0,14.96,AB Physical Therapy,7 years,OWN,350000.0,Does not meet the credit policy. Status:Charged Off,small_business,MA,11.38,715.0,719.0
+25000.0,15.33,American University,8 years,MORTGAGE,141000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,DC,23.82,705.0,709.0
+19000.0,11.36,"Roux Associates, Inc.",< 1 year,MORTGAGE,59000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,NH,8.95,730.0,734.0
+10000.0,12.73,SMITH DRUG,5 years,MORTGAGE,33000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,AR,19.05,700.0,704.0
+4000.0,20.17,Sprint,3 years,OWN,40000.0,Does not meet the credit policy. Status:Fully Paid,major_purchase,MO,12.39,675.0,679.0
+13000.0,10.99,"Purnell Furniture Services, Inc",7 years,MORTGAGE,106000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,VA,16.36,720.0,724.0
+3000.0,10.99,Exeter Twp School District,10+ years,OWN,65000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,PA,19.57,685.0,689.0
+4500.0,10.62,Splendora ISD,< 1 year,RENT,41000.0,Does not meet the credit policy. Status:Charged Off,other,TX,7.02,705.0,709.0
+24000.0,15.7,Emergency Public Safety Communication,< 1 year,MORTGAGE,195000.0,Does not meet the credit policy. Status:Fully Paid,other,TX,11.42,700.0,704.0
+14000.0,7.88,Cisco Systems,3 years,MORTGAGE,136000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,CA,15.87,755.0,759.0
+4000.0,13.11,Global Payments,2 years,RENT,29600.0,Does not meet the credit policy. Status:Fully Paid,other,MD,2.35,680.0,684.0
+25000.0,19.47,"HOLLY HUNT Enterprises, Inc.",2 years,MORTGAGE,105000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,IL,19.81,660.0,664.0
+3000.0,14.22,Rehoboth Beach Country Club,2 years,RENT,56000.0,Does not meet the credit policy. Status:Fully Paid,other,DE,24.32,715.0,719.0
+10400.0,15.33,Intel Corp,4 years,MORTGAGE,68000.0,Does not meet the credit policy. Status:Fully Paid,credit_card,AZ,24.78,680.0,684.0
+19000.0,18.43,Johnson Mathey,9 years,MORTGAGE,68000.0,Does not meet the credit policy. Status:Fully Paid,debt_consolidation,PA,20.12,660.0,664.0
+25000.0,12.87,OBJECTSOFT GROUP INC.,3 years,RENT,80000.0,Does not meet the credit policy. Status:Fully Paid,wedding,WI,12.97,730.0,734.0
