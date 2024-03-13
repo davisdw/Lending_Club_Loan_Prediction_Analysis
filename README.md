@@ -5,23 +5,23 @@
 # Weighted Average Analysis
 Based on the feature importances obtained from the predictive model, we can observe the following key findings:
 
-Interest Rate (int_rate): It is the most significant predictor of loan default, with a feature importance score of approximately 0.027. This suggests that higher interest rates are associated with a higher likelihood of default.
+issued_year (Issued Year): This feature has the highest importance score of 0.0321, indicating that the year in which the loan was issued is the most significant predictor of loan default according to the model. Newer loans might have different risk factors compared to older ones, which could influence default rates.
 
-Installment: The installment amount has a moderate impact on loan default, with a feature importance score of around 0.017. Higher installment amounts may contribute to increased default risk.
+int_rate (Interest Rate): With an importance score of 0.0199, the interest rate charged on the loan is the second most important feature. This aligns with common intuition as higher interest rates typically correlate with higher risk for default.
 
-Delinquencies in the Past 2 Years (delinq_2yrs): Delinquency history, as indicated by the number of delinquencies in the past 2 years, also plays a notable role in predicting loan default, with a feature importance score of about 0.017.
+dti (Debt-to-Income Ratio): The debt-to-income ratio has an importance score of 0.0129, indicating its moderate importance in predicting loan defaults. A higher DTI suggests that the borrower may have difficulty managing additional debt, increasing the risk of default.
 
-Annual Income (annual_inc): The borrower's annual income has a discernible impact on default prediction, as indicated by its feature importance score of approximately 0.016. Lower annual income levels might be associated with higher default rates.
+annual_inc (Annual Income): This feature has an importance score of 0.0105, suggesting that the borrower's annual income plays a role in predicting loan defaults. Higher income levels may indicate greater financial stability and a lower likelihood of default.
 
-Debt-to-Income Ratio (dti): The debt-to-income ratio is another significant predictor of loan default, with a feature importance score of around 0.015. Higher dti ratios could suggest a higher likelihood of default.
+installment (Loan Installment): With an importance score of 0.0100, the size of the loan installment also contributes to predicting loan defaults. Larger installments may strain the borrower's finances, increasing the risk of default.
 
-Loan Amount (loan_amnt): While still contributing to the model's predictive power, the loan amount has a relatively lower feature importance score of about 0.015 compared to other factors.
+fico_score (FICO Credit Score): The borrower's FICO credit score has an importance score of 0.0094, indicating its moderate importance in predicting defaults. Higher credit scores generally signify lower credit risk, so lower FICO scores might indicate a higher likelihood of default.
 
-FICO Score (fico_score): FICO score, a measure of creditworthiness, shows a lesser impact on default prediction with a feature importance score of approximately 0.004.
+loan_amnt (Loan Amount): This feature has an importance score of 0.0085, suggesting that the size of the loan also plays a role in predicting defaults. Larger loan amounts may present higher risk, especially if coupled with other factors like high interest rates or low income.
 
-Year of Loan Issuance (issued_year): The year in which the loan was issued also has a minor influence on default prediction, with a feature importance score of about 0.004.
+delinq_2yrs (Number of Delinquencies in the Past 2 Years): Lastly, the number of delinquencies in the past 2 years has the lowest importance score of 0.0027. While still contributing to the model's predictions, it appears to have less impact compared to the other features.
 
-In summary, variables such as interest rate, installment amount, delinquency history, annual income, and debt-to-income ratio are among the most critical factors influencing the likelihood of loan default. These insights can aid in refining lending strategies, risk assessment, and decision-making processes to mitigate default risks effectively.
+Overall, the results indicate that several factors, including the year of loan issuance, interest rate, debt-to-income ratio, annual income, and loan installment size, are important predictors of loan defaults. These insights can be valuable for lenders in assessing credit risk and making informed decisions about loan approvals.
 
 
 
