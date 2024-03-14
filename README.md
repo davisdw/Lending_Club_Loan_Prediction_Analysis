@@ -2,6 +2,12 @@
 
 
 
+![image](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/140672220/d992dd17-a90d-427a-a6ad-312380487662)
+
+
+
+
+
 # Weighted Average Analysis
 Based on the feature importances obtained from the predictive model, we can observe the following key findings:
 
@@ -23,8 +29,6 @@ delinq_2yrs (Number of Delinquencies in the Past 2 Years): Lastly, the number of
 
 Overall, the results indicate that several factors, including the year of loan issuance, interest rate, debt-to-income ratio, annual income, and loan installment size, are important predictors of loan defaults. These insights can be valuable for lenders in assessing credit risk and making informed decisions about loan approvals.
 
-
-![image](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/140672220/d992dd17-a90d-427a-a6ad-312380487662)
 
 
 
@@ -55,11 +59,6 @@ I’ve included the average interest loan for each state (int_rate)groupby(state
 State with highest Default Ratio -> IN (Indiana) and IL(Illinois) are tied around .18 (with interest rates of IL with 19% and IN with 18%)
 
 This indicated that the loan lending out bad loans  (%)  in those two states (IL 1.45% and ID 0.90% ) are very low (which chances of residents in either of those states are quite low)
-
-
-
-![Loan Predictions Dashboard](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/f1f252ee-71c4-4c3d-bfc8-76a0e190fe77)
-
 
 
 
