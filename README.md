@@ -32,10 +32,29 @@ Overall, the results indicate that several factors, including the year of loan i
 ![bar_stacked_bad_loan_region](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/172b5f32-b606-4247-a384-63548923787e)
 
 
+Taking closer look into the bad loans by region determines the following: 
+
+Plot takes in account of percentage average of each of those bad loan types Late, Default, and Charged Off
+
+North East showing increase percentage of bad loans which especially with high number of Default loans within that region
+
+26% of Late Payment discovered in  South East
+33% of Default loan from North East
+25% of Charged Off Loan from South East
+
+Now let’s take a deeper look by state
 
 
 ![map_plot_default_ratio](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/838202ab-2631-4510-8564-09a13b88d5a1)
 
+
+In this third plot each state is calculated based on a Default Ratio ( bad_loan / and good_loan ).groupby(state).avg(  ) 
+
+I’ve included the average interest loan for each state (int_rate)groupby(state).avg ( )
+
+State with highest Default Ratio -> IN (Indiana) and IL(Illinois) are tied around .18 (with interest rates of IL with 19% and IN with 18%)
+
+This indicated that the loan lending out bad loans  (%)  in those two states (IL 1.45% and ID 0.90% ) are very low (which chances of residents in either of those states are quite low)
 
 
 
@@ -44,10 +63,35 @@ Overall, the results indicate that several factors, including the year of loan i
 
 
 
+
+
 ![good_bad_loan_pie_bar](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/9dcd6c32-41bf-4053-bd77-02c70f4f6e42)
 
+
+
+Breakdown of the loans based on the conditions of the loan status 
+
+Bad loan consists of compilation of Late payments 31 - 120 Days, Default and Charged Off
+
+Good loan which is current, paid off, and even grace period (16-30 days of late payment)
+
+Now let’s take closer look at the bad data
 
 
 
 
 ![confuse_matrix](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/f67bf527-1a36-4942-950d-cc8d7448a25f)
+
+
+
+To test how accurate Lending Club makes their loan decisions, used logistic regression model 
+
+S/N: data has to be numeric and free of any Null values 
+
+Splitted the data into features and labels using train_test_split 
+
+Trained the model with logistic regression which was able to achieve my desired results before running test 
+
+Test the model with prediction and returned score of .88
+
+Took further and use confusion matrix to determine how the model made it’s prediction 
