@@ -21,8 +21,6 @@ loan_amnt (Loan Amount): This feature has an importance score of 0.0085, suggest
 
 delinq_2yrs (Number of Delinquencies in the Past 2 Years): Lastly, the number of delinquencies in the past 2 years has the lowest importance score of 0.0027. While still contributing to the model's predictions, it appears to have less impact compared to the other features.
 
-Overall, the results indicate that several factors, including the year of loan issuance, interest rate, debt-to-income ratio, annual income, and loan installment size, are important predictors of loan defaults. These insights can be valuable for lenders in assessing credit risk and making informed decisions about loan approvals.
-
 
 
 
@@ -83,19 +81,13 @@ S/N: data has to be numeric and free of any Null values
 
 Splitted the data into features and labels using train_test_split 
 
-
-
-![feature_importance_plot](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/bf8acf48-0c3a-412b-96a7-70c42b90addd)
-
-
-
-
-
 Trained the model with logistic regression which was able to achieve my desired results before running test 
 
 Test the model with prediction and returned score of .88
 
 Took further and use confusion matrix to determine how the model made it’s prediction 
+
+
 
 
 
@@ -110,4 +102,9 @@ Took further and use confusion matrix to determine how the model made it’s pre
 Based on the feature importances obtained from the predictive model, we can observe the following key findings:
 
 issued_year (Issued Year): This feature has the highest importance score of 0.0321, indicating that the year in which the loan was issued is the most significant predictor of loan default according to the model. Newer loans might have different risk factors compared to older ones, which could influence default rates.
+
+
+
+Overall, the results indicate that several factors, including the year of loan issuance, interest rate, debt-to-income ratio, annual income, and loan installment size, are important predictors of loan defaults. These insights can be valuable for lenders in assessing credit risk and making informed decisions about loan approvals.
+
 
