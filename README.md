@@ -7,12 +7,6 @@
 
 
 
-
-# Weighted Average Analysis
-Based on the feature importances obtained from the predictive model, we can observe the following key findings:
-
-issued_year (Issued Year): This feature has the highest importance score of 0.0321, indicating that the year in which the loan was issued is the most significant predictor of loan default according to the model. Newer loans might have different risk factors compared to older ones, which could influence default rates.
-
 int_rate (Interest Rate): With an importance score of 0.0199, the interest rate charged on the loan is the second most important feature. This aligns with common intuition as higher interest rates typically correlate with higher risk for default.
 
 dti (Debt-to-Income Ratio): The debt-to-income ratio has an importance score of 0.0129, indicating its moderate importance in predicting loan defaults. A higher DTI suggests that the borrower may have difficulty managing additional debt, increasing the risk of default.
@@ -89,8 +83,31 @@ S/N: data has to be numeric and free of any Null values
 
 Splitted the data into features and labels using train_test_split 
 
+
+
+![feature_importance_plot](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/bf8acf48-0c3a-412b-96a7-70c42b90addd)
+
+
+
+
+
 Trained the model with logistic regression which was able to achieve my desired results before running test 
 
 Test the model with prediction and returned score of .88
 
 Took further and use confusion matrix to determine how the model made it’s prediction 
+
+
+
+
+![feature_importance_plot](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/bf8acf48-0c3a-412b-96a7-70c42b90addd)
+
+
+
+
+# Weighted Average Analysis
+
+Based on the feature importances obtained from the predictive model, we can observe the following key findings:
+
+issued_year (Issued Year): This feature has the highest importance score of 0.0321, indicating that the year in which the loan was issued is the most significant predictor of loan default according to the model. Newer loans might have different risk factors compared to older ones, which could influence default rates.
+
