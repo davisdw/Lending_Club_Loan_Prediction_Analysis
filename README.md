@@ -24,4 +24,5 @@ delinq_2yrs (Number of Delinquencies in the Past 2 Years): Lastly, the number of
 Overall, the results indicate that several factors, including the year of loan issuance, interest rate, debt-to-income ratio, annual income, and loan installment size, are important predictors of loan defaults. These insights can be valuable for lenders in assessing credit risk and making informed decisions about loan approvals.
 
 
+![image](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/140672220/d992dd17-a90d-427a-a6ad-312380487662)
 
