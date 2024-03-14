@@ -26,3 +26,28 @@ Overall, the results indicate that several factors, including the year of loan i
 
 ![image](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/140672220/d992dd17-a90d-427a-a6ad-312380487662)
 
+
+
+
+![bar_stacked_bad_loan_region](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/172b5f32-b606-4247-a384-63548923787e)
+
+
+
+
+![map_plot_default_ratio](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/838202ab-2631-4510-8564-09a13b88d5a1)
+
+
+
+
+![Loan Predictions Dashboard](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/f1f252ee-71c4-4c3d-bfc8-76a0e190fe77)
+
+
+
+
+![good_bad_loan_pie_bar](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/9dcd6c32-41bf-4053-bd77-02c70f4f6e42)
+
+
+
+
+
+![confuse_matrix](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/f67bf527-1a36-4942-950d-cc8d7448a25f)
