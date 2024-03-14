@@ -88,16 +88,13 @@ Test the model with prediction and returned score of .88
 Took further and use confusion matrix to determine how the model made it’s prediction 
 
 
-
+# Weighted Average Analysis
 
 
 
 ![feature_importance_plot](https://github.com/davisdw/Lending_Tree_Loan_Prediction_Analysis/assets/104311388/bf8acf48-0c3a-412b-96a7-70c42b90addd)
 
 
-
-
-# Weighted Average Analysis
 
 Based on the feature importances obtained from the predictive model, we can observe the following key findings:
 
