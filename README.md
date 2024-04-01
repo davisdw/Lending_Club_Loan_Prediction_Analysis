@@ -75,6 +75,8 @@ Now let’s take closer look at the bad data
 
 
 
+Took it further and use confusion matrix to determine how the model made it’s prediction 
+
 To test how accurate Lending Club makes their loan decisions, used logistic regression model 
 
 S/N: data has to be numeric and free of any Null values 
@@ -84,8 +86,6 @@ Splitted the data into features and labels using train_test_split
 Trained the model with logistic regression which was able to achieve my desired results before running test 
 
 Test the model with prediction and returned score of .88
-
-Took further and use confusion matrix to determine how the model made it’s prediction 
 
 
 # Weighted Average Analysis
@@ -99,7 +99,6 @@ Took further and use confusion matrix to determine how the model made it’s pre
 Based on the feature importances obtained from the predictive model, we can observe the following key findings:
 
 issued_year (Issued Year): This feature has the highest importance score of 0.0321, indicating that the year in which the loan was issued is the most significant predictor of loan default according to the model. Newer loans might have different risk factors compared to older ones, which could influence default rates.
-
 
 
 Overall, the results indicate that several factors, including the year of loan issuance, interest rate, debt-to-income ratio, annual income, and loan installment size, are important predictors of loan defaults. These insights can be valuable for lenders in assessing credit risk and making informed decisions about loan approvals.
